@@ -4,7 +4,15 @@
 <body>
 {% include header.html %}
 
-{{ content }}
+<div id="wrapper">
+  {% include sidebar.html %}
+
+  <div id="main">
+    <section>testing</section>
+
+    {{ content }}
+  </div>
+</div>
 
 {% include footer.html %}
 
