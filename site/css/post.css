@@ -1,0 +1,38 @@
+article {
+}
+
+article header {
+  display: -moz-flex;
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  min-height: 5em;
+  border-bottom: 1px solid black;
+}
+
+article header h3,
+article header div#meta {
+  -moz-flex-grow: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-grow: 1;
+  flex-grow: 1;
+  -ms-flex: 1;
+  margin: 0;
+}
+
+article header h3 {
+  font-family: "Raleway", Helvetica, sans-serif;
+  border-right: 1px solid black;
+  padding: 1em;
+}
+
+article header div.meta {
+  width: 10em;
+  min-width: 10em;
+  padding: 1em;
+}
+
+article header div.meta p.time {
+  font-weight: bold;
+  font-size: .9em;
+}

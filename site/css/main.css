@@ -8,7 +8,6 @@ body {
 div#wrapper {
   padding: 2em;
   margin: 0 auto;
-  width: 100em;
   opacity: 1;
 
   display: -moz-flex;
@@ -24,18 +23,18 @@ h1 {
 
 /* header */
 
-header {
+header#top {
   border-bottom: 1px solid black;
   text-transform: uppercase;
   background-color: white;
 }
 
-header h1,
-header ul {
+header#top h1,
+header#top ul {
   font-size: .8em;
 }
 
-header h1 {
+header#top h1 {
   margin: 0;
   padding: 2em;
   font-weight: 800;
@@ -44,18 +43,18 @@ header h1 {
   display: inline-block;
 }
 
-header ul {
+header#top ul {
   display: inline-block;
   padding: 0;
 }
 
-header ul li {
+header#top ul li {
   display: inline;
   list-style-type: none;
   letter-spacing: 2.8px;
 }
 
-header ul li a {
+header#top ul li a {
   border-right: 1px solid black;
   padding: .2em 2em;
   display: inline-block;
@@ -87,7 +86,7 @@ section#sidebar div#sidebar-content {
 
 div#main {
   background-color: white;
-  width: 100%;
+  border: 1px solid black;
 
   -moz-flex-grow: 1;
   -webkit-flex-grow: 1;
@@ -100,8 +99,8 @@ div#main section {
   background-color: white;
 }
 
-/* responsive stuff */
 
+/* responsive stuff */
 
 @media screen and (max-width: 1024px) {
   div#wrapper {
@@ -110,10 +109,14 @@ div#main section {
 
   section#sidebar {
     width: 100%;
+    text-align: center;
+  }
+
+  section#sidebar h1 {
+    margin-top: 0;
   }
 
   section#sidebar div#sidebar-content {
     display: none;
   }
-
 }
