@@ -24,7 +24,7 @@ h1 {
 
 /* header */
 
-header#top {
+nav#top {
   position: fixed;
   width: 100%;
   border-bottom: 1px solid black;
@@ -32,12 +32,12 @@ header#top {
   background-color: white;
 }
 
-header#top h1,
-header#top ul {
+nav#top h1,
+nav#top ul {
   font-size: .8em;
 }
 
-header#top h1 {
+nav#top h1 {
   margin: 0;
   font-weight: 800;
   border-right: 1px solid black;
@@ -45,29 +45,29 @@ header#top h1 {
   display: inline-block;
 }
 
-header#top h1 a {
+nav#top h1 a {
   display: block;
   padding: 2em;
   color: black;
 }
 
-header#top h1 a:hover {
+nav#top h1 a:hover {
   text-decoration: none;
 }
 
-header#top ul {
+nav#top ul {
   display: inline-block;
   padding: 0;
   margin: 0;
 }
 
-header#top ul li {
+nav#top ul li {
   display: inline;
   list-style-type: none;
   letter-spacing: 2.8px;
 }
 
-header#top ul li a {
+nav#top ul li a {
   border-right: 1px solid black;
   padding: .2em 2em;
   display: inline-block;
@@ -107,8 +107,10 @@ div#main {
   -ms-flex-grow: 1;
   flex-grow: 1;
   -ms-flex: 1;
+  max-width: 90em;
 }
 
+div#main section,
 div#main article {
   background-color: white;
   border: 1px solid black;
@@ -142,19 +144,19 @@ div#main article {
     padding-top: 1em;
   }
 
-  header#top {
+  nav#top {
     position: relative;
   }
 
-  header#top h1 {
+  nav#top h1 {
     border: none;
   }
 
-  header#top h1 a {
+  nav#top h1 a {
     padding: .5em 1em 0 1em;
   }
 
-  header#top ul li a {
+  nav#top ul li a {
     padding: 0 .5em .2em .5em;
     border: none;
   }
