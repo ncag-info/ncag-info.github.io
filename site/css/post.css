@@ -1,7 +1,7 @@
-article {
+article.post {
 }
 
-article header {
+article.post header {
   display: -moz-flex;
   display: -webkit-flex;
   display: -ms-flex;
@@ -10,8 +10,8 @@ article header {
   border-bottom: 1px solid black;
 }
 
-article header h3,
-article header div#meta {
+article.post header h3,
+article.post header div#meta {
   -moz-flex-grow: 1;
   -webkit-flex-grow: 1;
   -ms-flex-grow: 1;
@@ -20,19 +20,19 @@ article header div#meta {
   margin: 0;
 }
 
-article header h3 {
+article.post header h3 {
   font-family: "Raleway", Helvetica, sans-serif;
   border-right: 1px solid black;
   padding: 1em;
 }
 
-article header div.meta {
+article.post header div.meta {
   width: 10em;
   min-width: 10em;
   padding: 1em;
 }
 
-article header div.meta p.time {
+article.post header div.meta p.time {
   font-weight: bold;
   font-size: .9em;
 }

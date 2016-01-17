@@ -1,0 +1,22 @@
+{% if post == null %}
+  {% assign post = page %}
+{% endif %}
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <header>
+    <h3 itemprop="name headline"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+    <div class="meta">
+      <p class="time"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time></p>
+      <ul>
+        <li><a href="#">meta</a>
+        <li><a href="#">obituary</a>
+        <li><a href="#">test</a>
+      </ul>
+    </div>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ post.content }}
+  </div>
+
+</article>

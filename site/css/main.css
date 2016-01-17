@@ -8,6 +8,7 @@ body {
 div#wrapper {
   padding: 2em;
   margin: 0 auto;
+  padding-top: 5em;
   opacity: 1;
 
   display: -moz-flex;
@@ -24,6 +25,8 @@ h1 {
 /* header */
 
 header#top {
+  position: fixed;
+  width: 100%;
   border-bottom: 1px solid black;
   text-transform: uppercase;
   background-color: white;
@@ -36,16 +39,26 @@ header#top ul {
 
 header#top h1 {
   margin: 0;
-  padding: 2em;
   font-weight: 800;
   border-right: 1px solid black;
   font-size: .8em;
   display: inline-block;
 }
 
+header#top h1 a {
+  display: block;
+  padding: 2em;
+  color: black;
+}
+
+header#top h1 a:hover {
+  text-decoration: none;
+}
+
 header#top ul {
   display: inline-block;
   padding: 0;
+  margin: 0;
 }
 
 header#top ul li {
@@ -76,6 +89,10 @@ section#sidebar h1 {
 
 section#sidebar h1 span#info {
   font-size: .7em;
+  font-style: italic;
+  text-transform: none;
+  letter-spacing: .3em;
+  font-weight: normal;
 }
 
 section#sidebar div#sidebar-content {
@@ -85,9 +102,6 @@ section#sidebar div#sidebar-content {
 /* main */
 
 div#main {
-  background-color: white;
-  border: 1px solid black;
-
   -moz-flex-grow: 1;
   -webkit-flex-grow: 1;
   -ms-flex-grow: 1;
@@ -95,8 +109,10 @@ div#main {
   -ms-flex: 1;
 }
 
-div#main section {
+div#main article {
   background-color: white;
+  border: 1px solid black;
+  margin-bottom: 1em;
 }
 
 
@@ -120,3 +136,28 @@ div#main section {
     display: none;
   }
 }
+
+@media screen and (max-width: 700px) {
+  div#wrapper {
+    padding-top: 1em;
+  }
+
+  header#top {
+    position: relative;
+  }
+
+  header#top h1 {
+    border: none;
+  }
+
+  header#top h1 a {
+    padding: .5em 1em 0 1em;
+  }
+
+  header#top ul li a {
+    padding: 0 .5em .2em .5em;
+    border: none;
+  }
+}
+
+
