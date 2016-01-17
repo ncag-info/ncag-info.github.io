@@ -2,8 +2,22 @@
 layout: default
 ---
 
-{% for post in site.posts %}
+{% for post in paginator.posts %}
   {% include posting.html %}
 {% endfor %}
+
+<ul class="pagination">
+  {% if paginator.previous_page %}
+    <li class="previous"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: "//", "/" }}">previous page</a>
+  {% else %}
+    <li class="disabled previous"><a href="#">previous page</a>
+  {% endif %}
+
+  {% if paginator.next_page %}
+    <li class="next"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: "//", "/" }}">next page</a>
+  {% else %}
+    <li class="disabled next"><a href="#">next page</a>
+  {% endif %}
+</ul>
 
 <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
