@@ -1,7 +1,7 @@
 @media (min-width: 700px) {
   .dl-horizontal dt {
     float: left;
-    width: 200px;
+    width: 180px;
     overflow: hidden;
     clear: left;
     text-align: right;
@@ -10,6 +10,6 @@
   }
 
   .dl-horizontal dd {
-    margin-left: 220px;
+    margin-left: 200px;
   }
 }

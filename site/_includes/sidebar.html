@@ -7,7 +7,17 @@
     <h2>Categories</h2>
 
     <h2>Conferences</h2>
-
-    <h2>Archive</h2>
+    {% assign conferences = site.data.conferences | sort: "start" | reverse %}
+    <ul>
+    {% for conference in conferences %}
+      <li data-end="{{ conference.end }}">
+        {{ conference.start | date: "%b %d, %Y" }}: 
+        {% if conference.url %}
+          <a href="{{ conference.url }}">{{ conference.title }}</a>
+        {% else %}
+          {{ conference.title }}
+        {% endif %} 
+    {% endfor %}
+    </ul>
   </div>
 </section>

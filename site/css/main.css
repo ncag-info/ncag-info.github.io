@@ -6,9 +6,8 @@ body {
 }
 
 div#wrapper {
-  padding: 2em;
+  padding: 5em 2em 2em 2em;
   margin: 0 auto;
-  padding-top: 5em;
   opacity: 1;
 
   display: -moz-flex;
@@ -99,6 +98,10 @@ section#sidebar div#sidebar-content {
   border-top: 1px solid rgba(160,160,160,0.3);
 }
 
+section#sidebar div#sidebar-content ul {
+  padding-left: 20px;
+}
+
 /* main */
 
 div#main {
@@ -117,12 +120,21 @@ div#main article {
   margin-bottom: 1em;
 }
 
+.content {
+  padding: 1em;
+}
+
+.content h2 {
+  margin-top: 0;
+}
+
 
 /* responsive stuff */
 
 @media screen and (max-width: 1024px) {
   div#wrapper {
     display: block;
+    padding: 5em 1em 1em 1em;
   }
 
   section#sidebar {
@@ -141,7 +153,7 @@ div#main article {
 
 @media screen and (max-width: 700px) {
   div#wrapper {
-    padding-top: 1em;
+    padding: 1em .5em .5em .5em;
   }
 
   nav#top {

@@ -6,7 +6,7 @@
   <header>
     <h3 itemprop="name headline"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
     <div class="meta">
-      <p class="time"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time></p>
+      <p class="time"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %-d, %Y" }}</time></p>
       <ul>
         <li><a href="#">meta</a>
         <li><a href="#">obituary</a>
@@ -15,7 +15,7 @@
     </div>
   </header>
 
-  <div class="post-content" itemprop="articleBody">
+  <div class="content" itemprop="articleBody">
     {{ post.content }}
   </div>
 
