@@ -1,0 +1,40 @@
+@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Raleway:400,800,900");
+
+header {
+  border-bottom: 1px solid black;
+  text-transform: uppercase;
+}
+
+header h1,
+header ul {
+  font-size: .8em;
+}
+
+header h1 {
+  margin: 0;
+  padding: 2em;
+  font-family: "Raleway", Helvetica, sans-serif;
+  font-weight: 800;
+  letter-spacing: 4px;
+  border-right: 1px solid black;
+  font-size: .8em;
+  display: inline-block;
+}
+
+header ul {
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  display: inline-block;
+  padding: 0;
+}
+
+header ul li {
+  display: inline;
+  list-style-type: none;
+  letter-spacing: 2.8px;
+}
+
+header ul li a {
+  border-right: 1px solid black;
+  padding: .2em 2em;
+  display: inline-block;
+}
