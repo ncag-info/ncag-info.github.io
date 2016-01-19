@@ -1,18 +1,125 @@
-- start: 2016-09-12
-  end: 2016-09-23
+- start: 2016-09-19
+  end: 2016-09-24
   title: Non-commutative, derived and homotopical methods in geometry
-  location: University of Antwerp
-  country: Belgium
-  url: http://localhost/~pbelmans/antwerp-2016/
-
-- start: 2016-01-10
-  end: 2016-01-12
-  title: Non-commutative, derived and homotopical methods in geometry
+  type: conference
   location: University of Antwerp
   country: Belgium
 
-- start: 2016-03-10
-  end: 2016-04-12
-  title: Non-commutative, derived and homotopical methods in geometry
-  location: University of Antwerp
-  country: Belgium
+- start: 2016-02-15
+  end: 2016-02-15
+  title: Spherical functors and subcategories
+  type: mini-workshop
+  location: University of Cologne
+  country: Germany
+  url: http://www.mi.uni-koeln.de/~ahochene/sfs.html
+
+- start: 2016-05-24
+  end: 2016-05-27
+  title: Brauer groups, Hopf algebras and monoidal categories
+  type: conference
+  location: University of Torino
+  country: Italy
+  url: http://homepages.vub.ac.be/~hopfalgb/welcome.html 
+
+- start: 2016-03-01
+  end: 2016-03-02
+  title: Triangulated categories and geometry
+  type: mini-workshop
+  location: University of Bielefeld
+  country: Germany
+  url: https://www.math.uni-bielefeld.de/birep/meetings/tcg2016/ 
+
+- start: 2016-03-07
+  end: 2016-03-18
+  title: Homological methods, representation theory and cluster algebras 
+  type: school
+  location: University of Mar del Plata
+  country: Argentina
+  url: http://webusers.imj-prg.fr/~patrick.le-meur/CIMPA/cimpa.php 
+
+- start: 2016-03-14
+  end: 2016-03-18
+  title: Triangulated categories in algebra, geometry and topology
+  type: conference
+  location: University of Stuttgart
+  country: Germany
+  url: http://www.iaz.uni-stuttgart.de/activities/tc.t 
+
+- start: 2016-03-29
+  end: 2016-04-02
+  title: "Derived categories: dimensions, stability conditions and enhancements"
+  type: school
+  location: University of Bonn
+  country: Germany
+  url: http://www.hcm.uni-bonn.de/derived-categories-2016/ 
+
+- start: 2016-08-10
+  end: 2016-08-13
+  title: Representations of algebras (ICRA)
+  type: workshop
+  location: University of Syracuse
+  country: United States
+  url: http://icra2016.syr.edu/index.html 
+
+- start: 2016-08-15
+  end: 2016-08-19
+  title: Representations of algebras (ICRA)
+  type: conference
+  location: University of Syracuse
+  country: United States
+  url: http://icra2016.syr.edu/index.html 
+
+- start: 2016-02-26
+  end: 2016-02-28
+  title: Unramified cohomology, derived categories, and rationality
+  location: University of Utah
+  country: United States
+  url: http://www.math.utah.edu/~defernex/FRG-S16.html
+
+- start: 2016-06-06
+  end: 2016-06-10
+  title: Global mirror symmetry
+  type: workshop
+  location: University of Tianjin
+  country: China
+  url: https://sites.google.com/site/globalmirrorsymmetry/ 
+
+- start: 2016-06-13
+  end: 2016-06-17
+  title: Stability conditions on triangulated categories and geometric applications
+  type: school
+  location: Sophus Lie Conference Center, Nordfjordeid
+  country: Norway
+  url: http://sheaves.ux.uis.no/nordfjordeid2016/index.html 
+
+- start: 2016-06-27
+  end: 2016-07-02
+  title: String-Math 2016
+  type: conference
+  location: Collège de France, Paris
+  country: France
+  url: https://indico.cern.ch/event/375104/overview
+
+- start: 2016-06-22
+  end: 2016-06-25
+  title: New methods in birational geometry
+  type: school
+  location: University of Toulouse
+  country: France
+  url: http://www.cimi.univ-toulouse.fr/complex-geometry-and-beyond/en/new-methods-birational-geometry
+
+- start: 2016-06-27
+  end: 2016-07-01
+  title: New methods in birational geometry
+  type: conference
+  location: University of Toulouse
+  country: France
+  url: http://www.cimi.univ-toulouse.fr/complex-geometry-and-beyond/en/new-methods-birational-geometry
+
+- start: 2016-02-29
+  end: 2016-03-04
+  title: Irregular Hodge structures and stability conditions
+  type: school
+  location: University of Mainz
+  country: Germany
+  url: http://www.sfb45.de/events/spring-school-irregular-hodge-structures-and-stability-conditions
