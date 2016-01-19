@@ -123,3 +123,34 @@
   location: University of Mainz
   country: Germany
   url: http://www.sfb45.de/events/spring-school-irregular-hodge-structures-and-stability-conditions
+
+- start: 2016-09-11
+  end: 2016-09-16
+  title: Bridges between noncommutative algebra and algebraic geometry
+  type: workshop
+  location: Banff
+  country: Canada
+  url: http://www.birs.ca/events/2016/5-day-workshops/16w5088
+
+- start: 2016-06-19
+  end: 2016-06-24
+  title: Triangulated categories and applications
+  type: workshop
+  location: Banff
+  country: Canada
+  url: http://www.birs.ca/events/2016/5-day-workshops/16w5040
+
+- start: 2016-02-14
+  end: 2016-02-20
+  title: Hochschild cohomology in algebra, geometry and topology
+  type: workshop
+  location: Oberwolfach
+  country: Germany
+  url: https://www.mfo.de/occasion/1607b/www_view
+
+- start: 2016-02-01
+  end: 2016-02-02
+  title: MGM duality
+  type: mini-workshop
+  location: University of Antwerp
+  country: Belgium
