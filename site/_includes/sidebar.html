@@ -5,6 +5,11 @@
 
   <div id="sidebar-content">
     <h2>Categories</h2>
+    <ul>
+      {% for category in site.categories %}
+        <li>{{ category[0] }}
+      {% endfor %}
+    </ul>
 
     <h2>Conferences</h2>
     {% assign conferences = site.data.conferences | sort: "start" | reverse %}

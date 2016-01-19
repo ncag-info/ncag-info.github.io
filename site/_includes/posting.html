@@ -8,9 +8,9 @@
     <div class="meta">
       <p class="time"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %-d, %Y" }}</time></p>
       <ul>
-        <li><a href="#">meta</a>
-        <li><a href="#">obituary</a>
-        <li><a href="#">test</a>
+        {% for category in post.categories %}
+          <li>{{ category }}
+        {% endfor %}
       </ul>
     </div>
   </header>
