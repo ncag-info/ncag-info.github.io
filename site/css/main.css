@@ -86,8 +86,16 @@ section#sidebar h1 {
   font-size: 2em;
 }
 
+section#sidebar h1 a {
+  color: black;
+}
+
+section#sidebar h1 a:hover {
+  text-decoration: none;
+}
+
 section#sidebar h1 span#info {
-  font-size: .7em;
+  font-size: .75em;
   font-style: italic;
   text-transform: none;
   letter-spacing: .3em;
