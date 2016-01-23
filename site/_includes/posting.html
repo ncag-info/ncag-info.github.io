@@ -7,9 +7,9 @@
     <h3 itemprop="name headline"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
     <div class="meta">
       <p class="time"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %-d, %Y" }}</time></p>
-      <ul>
-        {% for category in post.categories %}
-          <li>{{ category }}
+      <ul class="categories">
+        {% for tag in post.tags %}
+          <li><a href="{{ "/categories.html#" | append: tag[0] | prepend:site.baseurl }}">{{ tag }}</a>
         {% endfor %}
       </ul>
     </div>

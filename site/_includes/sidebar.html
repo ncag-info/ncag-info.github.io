@@ -5,9 +5,9 @@
 
   <div id="sidebar-content">
     <h2>Categories</h2>
-    <ul>
-      {% for category in site.categories %}
-        <li>{{ category[0] }}
+    <ul class="categories">
+      {% for tag in site.tags %}
+        <li><a href="{{ "/categories.html#" | append: tag[0] | prepend:site.baseurl }}">{{ tag[0] }}</a>
       {% endfor %}
     </ul>
 
