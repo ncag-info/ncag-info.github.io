@@ -11,6 +11,7 @@
       {% endfor %}
     </ul>
 
+    {% comment %}
     <h2>Conferences</h2>
     {% assign conferences = site.data.conferences | sort: "start" | reverse %}
     <ul>
@@ -23,6 +24,7 @@
           {{ conference.title }}
         {% endif %} 
     {% endfor %}
+    {% endcomment %}
     </ul>
   </div>
 </section>
