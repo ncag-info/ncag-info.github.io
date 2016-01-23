@@ -5,7 +5,7 @@ title: Conferences
 
 <p>If you have contributions to make, please get in touch on <a href="mailto:pieter.belmans@uantwerpen.be">pieter.belmans@uantwerpen.be</a>.
 {% assign conferences = site.data.conferences | sort: "start" | reverse %}
-<dl class="dl-horizontal">
+<dl class="dl-horizontal" id="conferences">
 {% for conference in conferences %}
   <dt data-end="{{ conference.end }}">{{ conference.start | date: "%b %d, %Y" }}&ndash;{{ conference.end | date: "%b %d, %Y" }}</dt>
   <dd>

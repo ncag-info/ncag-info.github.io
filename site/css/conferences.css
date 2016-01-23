@@ -13,3 +13,12 @@
     margin-left: 200px;
   }
 }
+
+dd.past + dt.past {
+  margin-top: 0;
+}
+
+dt.past,
+dd.past {
+  opacity: 0.4;
+}
