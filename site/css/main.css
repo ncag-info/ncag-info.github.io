@@ -148,6 +148,14 @@ blockquote {
   font-size: 1em;
 }
 
+p.feed-subscribe {
+  background-image: url("atom.svg");
+  background-size: 15px 15px;
+  background-repeat: no-repeat;
+  padding-left: 20px;
+  background-position: left center;
+}
+
 /* responsive stuff */
 
 @media screen and (max-width: 1024px) {
