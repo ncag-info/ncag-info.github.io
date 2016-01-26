@@ -160,4 +160,13 @@
   title: Graded structures in algebra and its applications
   type: conference
   location: Inter University Centre Dubrovnik
-  country: Hungary
+  url: http://www.iuc.hr/conference-details.php?id=258
+  country: Croatia
+
+- start: 2016-08-08
+  end: 2016-08-12
+  title: Graded geometry and applications to physics (GAP XIV)
+  location: University of Sheffield
+  country: United Kingdom
+  type: conference
+  url: http://www.geometryandphysics.org/gapxiv/
