@@ -95,6 +95,10 @@ section#sidebar h1 a:hover {
   text-decoration: none;
 }
 
+section#sidebar h1 span#ag {
+  color: rgb(214,0,0);
+}
+
 section#sidebar h1 span#info {
   font-size: .75em;
   font-style: italic;
