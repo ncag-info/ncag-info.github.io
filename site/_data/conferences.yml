@@ -19,7 +19,7 @@
   type: conference
   location: University of Torino
   country: Italy
-  url: http://homepages.vub.ac.be/~hopfalgb/welcome.html 
+  url: http://homepages.vub.ac.be/~hopfalgb/welcome.html
 
 - start: 2016-03-01
   end: 2016-03-02
@@ -27,15 +27,15 @@
   type: mini-workshop
   location: University of Bielefeld
   country: Germany
-  url: https://www.math.uni-bielefeld.de/birep/meetings/tcg2016/ 
+  url: https://www.math.uni-bielefeld.de/birep/meetings/tcg2016/
 
 - start: 2016-03-07
   end: 2016-03-18
-  title: Homological methods, representation theory and cluster algebras 
+  title: Homological methods, representation theory and cluster algebras
   type: school
   location: University of Mar del Plata
   country: Argentina
-  url: http://webusers.imj-prg.fr/~patrick.le-meur/CIMPA/cimpa.php 
+  url: http://webusers.imj-prg.fr/~patrick.le-meur/CIMPA/cimpa.php
 
 - start: 2016-03-14
   end: 2016-03-18
@@ -43,7 +43,7 @@
   type: conference
   location: University of Stuttgart
   country: Germany
-  url: http://www.iaz.uni-stuttgart.de/activities/tc.t 
+  url: http://www.iaz.uni-stuttgart.de/activities/tc.t
 
 - start: 2016-03-29
   end: 2016-04-02
@@ -51,7 +51,7 @@
   type: school
   location: University of Bonn
   country: Germany
-  url: http://www.hcm.uni-bonn.de/derived-categories-2016/ 
+  url: http://www.hcm.uni-bonn.de/derived-categories-2016/
 
 - start: 2016-08-10
   end: 2016-08-13
@@ -59,7 +59,7 @@
   type: workshop
   location: University of Syracuse
   country: United States
-  url: http://icra2016.syr.edu/index.html 
+  url: http://icra2016.syr.edu/index.html
 
 - start: 2016-08-15
   end: 2016-08-19
@@ -67,7 +67,7 @@
   type: conference
   location: University of Syracuse
   country: United States
-  url: http://icra2016.syr.edu/index.html 
+  url: http://icra2016.syr.edu/index.html
 
 - start: 2016-02-26
   end: 2016-02-28
@@ -82,7 +82,7 @@
   type: workshop
   location: University of Tianjin
   country: China
-  url: https://sites.google.com/site/globalmirrorsymmetry/ 
+  url: https://sites.google.com/site/globalmirrorsymmetry/
 
 - start: 2016-06-13
   end: 2016-06-17
@@ -90,7 +90,7 @@
   type: school
   location: Sophus Lie Conference Center, Nordfjordeid
   country: Norway
-  url: http://sheaves.ux.uis.no/nordfjordeid2016/index.html 
+  url: http://sheaves.ux.uis.no/nordfjordeid2016/index.html
 
 - start: 2016-06-27
   end: 2016-07-02
@@ -178,3 +178,35 @@
   country: United Kingdom
   type: conference
   url: https://sites.google.com/site/whybenoncommutative/
+
+- start: 2016-05-06
+  end: 2016-05-08
+  title: Motives and derived algebraic geometry
+  location: University of Essen
+  country: Germany
+  type: mini-workshop
+  url: http://www.preschema.com/motives-dag-2016/
+
+- start: 2016-03-18
+  end: 2016-03-22
+  title: Closing conference for the program on higher structures in geometry and physics
+  location: "Max Planck Insitute, Bonn"
+  country: Germany
+  type: conference
+  url: http://www.mpim-bonn.mpg.de/node/6477
+
+- start: 2016-07-17
+  end: 2016-07-23
+  title: Superschool on derived categories and D-branes
+  location: University of Alberta
+  country: Canada
+  type: school
+  url: http://people.math.sc.edu/ballard/conferences/superschool16/
+
+- start: 2016-08-01
+  end: 2016-08-12
+  title: Homological methods in algebra and geometry
+  location: AIMS
+  country: Ghana
+  type: school and workshop
+  url: http://aimsictp2016.weebly.com/
