@@ -4,6 +4,7 @@
   type: conference
   location: University of Antwerp
   country: Belgium
+  url: http://antwerp-2016.ncag.info
 
 - start: 2016-02-15
   end: 2016-02-15
@@ -218,3 +219,11 @@
   country: United Kingdom
   type: workshop
   url: http://hodge.maths.ed.ac.uk/tiki/DeCaDE+2016
+
+- start: 2016-06-09
+  end: 2016-06-10
+  title: Homological algebraic geometry
+  location: University of Sheffield
+  country: United Kingdom
+  type: workshop
+  url: https://sites.google.com/site/glensheffield16/home
