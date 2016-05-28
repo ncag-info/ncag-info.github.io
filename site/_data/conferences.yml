@@ -227,3 +227,66 @@
   country: United Kingdom
   type: workshop
   url: https://sites.google.com/site/glensheffield16/home
+
+- start: 2016-06-13
+  end: 2016-06-17
+  title: Non-commutative crepant resolutions, Ulrich modules and generalizations of the McKay correspondence
+  type: workshop
+  location: "RIMS, Kyoto University"
+  country: Japan
+  url: http://www.math.nagoya-u.ac.jp/~y-ito/rims2016.html
+
+- start: 2016-12-05
+  end: 2016-12-09
+  title: Generalized geometry and noncommutative algebra
+  type: workshop
+  location: Oxford University
+  country: United Kingdom
+
+- start: 2016-08-01
+  end: 2016-08-12
+  title: Advanced school on moduli spaces, mirror symmetry and enumerative geometry
+  type: school
+  country: Italy
+  location: ICTP, Trieste
+  url: http://indico.ictp.it/event/7648/
+
+- start: 2016-08-14
+  end: 2016-08-19
+  title: Workshop on moduli spaces, mirror symmetry and enumerative geometry
+  type: school
+  country: Italy
+  location: ICTP, Trieste
+  url: http://indico.ictp.it/event/7648/
+
+- start: 2016-09-05
+  end: 2016-09-08
+  title: "Hitchin 70: Differential geometry and quantization"
+  type: conference
+  country: Denmark
+  location: Aarhus
+  url: http://qgm.au.dk/events/show/artikel/hitchin-70-differential-geometry-and-quantization/
+
+- start: 2016-09-09
+  end: 2016-09-11
+  title: "Hitchin 70"
+  type: conference
+  country: United Kingdom
+  location: Oxford
+  url: http://www.claymath.org/events/hitchin-70
+
+- start: 2016-09-12
+  end: 2016-09-16
+  title: "Hitchin 70: Celebrating 30 years of Higgs bundles and 15 years of generalized geometry"
+  type: conference
+  country: Spain
+  location: Madrid
+  url: http://www.icmat.es/congresos/2016/hitchin70/
+
+- start: 2016-05-30
+  end: 2016-06-03
+  title: Representation theory, categorification and noncommutative algebra
+  type: conference
+  country: United States
+  location: Los Angeles
+  url: http://www-bcf.usc.edu/~andreaap/conference2016.html
