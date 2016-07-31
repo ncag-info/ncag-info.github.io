@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Cutting the ribbon for ncag.info"
-tag: meta
-date:   2016-01-31 10:10:36 +0100
+tag:    meta
+date:   2016-08-01 10:10:36 +0200
 
 ---
 
