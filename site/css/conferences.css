@@ -20,5 +20,6 @@ dd.past + dt.past {
 
 dt.past,
 dd.past {
+  z-index: 1;
   opacity: 0.4;
 }

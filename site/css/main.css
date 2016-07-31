@@ -30,6 +30,7 @@ nav#top {
   border-bottom: 1px solid black;
   text-transform: uppercase;
   background-color: white;
+  z-index: 2;
 }
 
 nav#top h1,
