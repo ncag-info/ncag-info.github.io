@@ -239,6 +239,7 @@
 - start: 2016-12-05
   end: 2016-12-09
   title: Generalized geometry and noncommutative algebra
+  url: http://www.claymath.org/events/generalized-geometry-and-noncommutative-algebra
   type: workshop
   location: Oxford University
   country: United Kingdom
@@ -290,3 +291,34 @@
   country: United States
   location: Los Angeles
   url: http://www-bcf.usc.edu/~andreaap/conference2016.html
+
+- start: 2016-06-29
+  end: 2016-06-29
+  title: Geometry of quantum flag manifolds
+  type: workshop
+  country: Belgium
+  location: Brussels
+
+- start: 2016-07-04
+  end: 2016-07-08
+  title: Interacting algebraic geometry
+  type: conference
+  country: France
+  location: Dijon
+  url: https://iag-dijon-2016.sciencesconf.org/
+
+- start: 2017-05-15
+  end: 2017-05-19
+  title: Triangulated categories and geometry - a conference in honour of Amnon Neeman
+  type: conference
+  country: Germany
+  location: Bielefeld
+  url: https://www.math.uni-bielefeld.de/birep/meetings/neeman2017/
+
+- start: 2017-09-04
+  end: 2017-09-08
+  title: "VBAC2017: Motivic methods and derived categories"
+  type: conference
+  country: Germany
+  location: Essen
+
