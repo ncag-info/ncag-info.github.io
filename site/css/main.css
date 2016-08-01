@@ -190,14 +190,11 @@ p.feed-subscribe {
 
   nav#top {
     position: relative;
+    text-align: center;
   }
 
   nav#top h1 {
-    border: none;
-  }
-
-  nav#top h1 a {
-    padding: .5em 1em 0 1em;
+    display: none;
   }
 
   nav#top ul li a {
