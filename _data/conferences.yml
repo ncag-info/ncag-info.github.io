@@ -322,3 +322,41 @@
   country: Germany
   location: Essen
 
+- start: 2016-11-07
+  end: 2016-11-11
+  title: "Workshop on Homological Mirror Symmetry: methods and structures"
+  type: workshop
+  country: United States
+  location: Institute for Advanced Study
+  url: https://www.math.ias.edu/hmsmas
+
+- start: 2017-03-13
+  end: 2017-03-17
+  title: "Workshop on Homological Mirror Symmetry: emerging developments and applications"
+  type: workshop
+  country: United States
+  location: Institute for Advanced Study
+
+- start: 2017-07-24
+  end: 2017-07-28
+  title: "A conference in honor of Ellen Kirkman and Martin Lorenz"
+  type: conference
+  country: United States
+  location: Temple University
+  url: https://math.temple.edu/events/conferences/k-l/
+
+- start: 2017-08-24
+  end: 2017-08-30
+  title: "Algebraic geometry: birational classification, derived categories, and moduli spaces"
+  type: workshop
+  country: Germany
+  location: Oberwolfach
+  url: https://www.mfo.de/occasion/1739/www_view
+
+- start: 2016-09-12
+  end: 2016-09-14
+  title: "The different faces of geometry, a workshop in honour of Fedor Bogomolov"
+  type: workshop
+  country: United Kingdom
+  location: Nottingham
+  url: https://www.maths.nottingham.ac.uk/personal/ibf/files/dfg.html
