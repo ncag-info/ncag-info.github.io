@@ -360,3 +360,11 @@
   country: United Kingdom
   location: Nottingham
   url: https://www.maths.nottingham.ac.uk/personal/ibf/files/dfg.html
+
+- start: 2017-01-07
+  end: 2017-01-13
+  title: "Quantization and moduli spaces"
+  type: workshop
+  country: Luxembourg
+  location: Luxembourg
+  url: http://math.uni.lu/quantmod/
