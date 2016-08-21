@@ -368,3 +368,11 @@
   country: Luxembourg
   location: Luxembourg
   url: http://math.uni.lu/quantmod/
+
+- start: 2016-09-05
+  end: 2016-09-09
+  title: "Hopf algebras and tensor categories"
+  type: workshop
+  country: China
+  location: Tianjin
+  url: http://www.mate.uncor.edu/~andrus/HATC2016.html
