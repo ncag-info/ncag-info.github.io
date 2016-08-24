@@ -376,3 +376,19 @@
   country: China
   location: Tianjin
   url: http://www.mate.uncor.edu/~andrus/HATC2016.html
+
+- start: 2016-06-27
+  end: 2016-07-02
+  title: "Poisson 2016: summer school"
+  type: summer school
+  country: Switzerland
+  location: Geneva
+  url: http://www.unige.ch/math/Poisson2016/school.html
+
+- start: 2016-07-04
+  end: 2016-07-08
+  title: "Poisson 2016: conference"
+  type: conference
+  country: Switzerland
+  location: Zürich
+  url: http://www.unige.ch/math/Poisson2016/conference.html
