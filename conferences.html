@@ -4,6 +4,7 @@ title: Conferences
 ---
 
 <p>If you have contributions to make, please get in touch on <a href="mailto:pieter.belmans@uantwerpen.be">pieter.belmans@uantwerpen.be</a>.
+<p>This list has last been updated on {{ site.time | date: '%B %d, %Y' }}.
 {% assign conferences = site.data.conferences | sort: "start" | reverse %}
 <dl class="dl-horizontal" id="conferences">
 {% for conference in conferences %}
@@ -13,7 +14,7 @@ title: Conferences
       <a href="{{ conference.url }}">{{ conference.title }}</a>
     {% else %}
       {{ conference.title }}
-    {% endif %} 
+    {% endif %}
   <dd>{{ conference.location }}, {{ conference.country }}
 {% endfor %}
 </dl>
