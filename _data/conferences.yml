@@ -392,3 +392,11 @@
   country: Switzerland
   location: Zürich
   url: http://www.unige.ch/math/Poisson2016/conference.html
+
+- start: 2016-11-14
+  end: 2016--11-18
+  title: Workshop on Hall algebras, enumerative invariants and gauge theories
+  type: workshop
+  country: Canada
+  location: Fields Institute
+  url: http://www.fields.utoronto.ca/activities/16-17/hall-algebras
