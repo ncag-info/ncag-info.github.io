@@ -408,3 +408,11 @@
   country: Italy
   location: Perugia
   url: http://www.dmi.unipg.it/ncg2016/index.html
+
+- start: 2016-10-13
+  end: 2016-10-15
+  title: "Classification, Computation, and Construction: New methods in geometry"
+  type: conference
+  country: United Kingdom
+  location: Warwick
+  url: http://www2.warwick.ac.uk/fac/sci/maths/research/events/2016-17/nonsymposium/3cing
