@@ -23,3 +23,7 @@ dd.past {
   z-index: 1;
   opacity: 0.4;
 }
+
+dt.new-month, dt.new-month + dd {
+  border-top: 15px solid transparent;
+}

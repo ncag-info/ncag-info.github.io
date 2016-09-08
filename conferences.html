@@ -7,14 +7,22 @@ title: Conferences
 <p>This list has last been updated on {{ site.time | date: '%B %d, %Y' }}.
 {% assign conferences = site.data.conferences | sort: "start" | reverse %}
 <dl class="dl-horizontal" id="conferences">
+{% assign month = "" %}
 {% for conference in conferences %}
-  <dt data-end="{{ conference.end }}">{{ conference.start | date: "%b %d, %Y" }}&ndash;{{ conference.end | date: "%b %d, %Y" }}</dt>
+  {% assign new = conference.start | date: "%b" %}
+  {% if month == new %}
+    <dt data-end="{{ conference.end }}">{{ conference.start | date: "%b %d, %Y" }}&ndash;{{ conference.end | date: "%b %d, %Y" }}</dt>
+  {% else %}
+    <dt class="new-month" data-end="{{ conference.end }}">{{ conference.start | date: "%b %d, %Y" }}&ndash;{{ conference.end | date: "%b %d, %Y" }}</dt>
+  {% endif %}
   <dd>
     {% if conference.url %}
       <a href="{{ conference.url }}">{{ conference.title }}</a>
     {% else %}
       {{ conference.title }}
     {% endif %}
+
+  {% assign month = new %}
   <dd>{{ conference.location }}, {{ conference.country }}
 {% endfor %}
 </dl>
