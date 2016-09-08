@@ -416,3 +416,27 @@
   country: United Kingdom
   location: Warwick
   url: http://www2.warwick.ac.uk/fac/sci/maths/research/events/2016-17/nonsymposium/3cing
+
+- start: 2018-06-18
+  end: 2018-06-22
+  title: "The 13th Brauer group conference"
+  type: conference
+  country: United States
+  location: Colorado State University
+  url: http://torsor.github.io/brauer/
+
+- start: 2017-02-27
+  end: 2017-03-03
+  title: "Mirror symmetry, tropical geometry, Gel'Fand&ndash;Kapranov&ndash;Zelevinsky-A-philosophy and beyond"
+  type: conference
+  country: South Korea
+  location: KIAS
+  url: http://home.kias.re.kr/MKG/h/MirrorSymmetry17/
+
+- start: 2017-03-21
+  end: 2017-03-24
+  title: "Workshop on quiver Grassmannians and their applications"
+  type: workshop
+  country: Germany
+  location: Wuppertal
+  url: http://www2.math.uni-wuppertal.de/~weist/quivgras.html
