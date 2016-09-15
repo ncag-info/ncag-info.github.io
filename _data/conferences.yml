@@ -448,3 +448,10 @@
   location: Banff
   country: Canada
   url: http://www.birs.ca/events/2017/5-day-workshops/17w5023
+
+- start: 2017-06-19
+  end: 2017-06-23
+  title: Linking noncommutative rings and algebraic geometry
+  type: conference
+  location: Edinburgh
+  country: United Kingdom
