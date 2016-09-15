@@ -455,3 +455,11 @@
   type: conference
   location: Edinburgh
   country: United Kingdom
+
+- start: 2016-10-30
+  end: 2016-10-30
+  title: Seattle Noncommutative algebra day
+  type: workshop
+  location: Seattle
+  country: United States
+  url: https://www.math.washington.edu/~zhang/SeattleAlgebraDay2016Oct/index.html
