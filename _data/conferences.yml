@@ -476,5 +476,15 @@
   end: 2016-09-29
   title: "Hopf algebras @ Brussels"
   type: workshop
+  location: Brussels
   country: Belgium
   url: http://homepages.ulb.ac.be/~jvercruy/workshop160928.pdf
+
+- start: 2016-09-12
+  end: 2016-09-16
+  title: "Categorical and analytic invariants in algebraic geometry 3"
+  type: conference
+  location: Moscow
+  country: Russia
+  url: http://www.mathnet.ru/php/conference.phtml?confid=931&option_lang=eng
+
