@@ -488,3 +488,26 @@
   country: Russia
   url: http://www.mathnet.ru/php/conference.phtml?confid=931&option_lang=eng
 
+- start: 2016-11-10
+  end: 2016-11-11
+  title: "Algebra and Representation Theory in the North 49"
+  type: workshop
+  location: Lancaster
+  country: United Kingdom
+  url: http://hodge.maths.ed.ac.uk/tiki/ARTIN-49
+
+- start: 2016-09-01
+  end: 2016-09-02
+  title: "Algebra and Representation Theory in the North 48"
+  type: workshop
+  location: Newcastle
+  country: United Kingdom
+  url: http://hodge.maths.ed.ac.uk/tiki/ARTIN-48
+
+- start: 2016-04-08
+  end: 2016-04-09
+  title: "Algebra and Representation Theory in the North 47"
+  type: workshop
+  location: Glasgow
+  country: United Kingdom
+  url: http://hodge.maths.ed.ac.uk/tiki/ARTIN-47
