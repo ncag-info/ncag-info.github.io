@@ -32,6 +32,47 @@ article.post header div.meta {
   padding: 1em;
 }
 
+@media screen and (max-width: 700px) {
+  article.post header {
+    display: block;
+  }
+
+  article.post header h3 {
+    border: 0;
+    border-bottom: 1px solid black;
+  }
+
+  article.post header div.meta {
+    padding: .2em 1em;
+    width: 100%;
+  }
+
+  article.post header div.meta ul.categories:before {
+    content: "category: ";
+  }
+
+  article.post header div.meta ul.categories {
+    display: inline;
+    list-style: none;
+  }
+
+  article.post header div.meta ul.categories li {
+    display: inline;
+  }
+
+  article.post header div.meta ul.categories li:after {
+    content: ", ";
+  }
+
+  article.post header div.meta ul.categories li:last-child:after {
+    content: "";
+  }
+
+  article.post header div.meta p.time {
+    display: inline;
+  }
+}
+
 article.post header div.meta p.time {
   font-weight: bold;
   font-size: .9em;
