@@ -511,3 +511,19 @@
   location: Glasgow
   country: United Kingdom
   url: http://hodge.maths.ed.ac.uk/tiki/ARTIN-47
+
+- start: 2016-11-19
+  end: 2016-11-21
+  title: "Geometric methods in representation theory"
+  type: conference
+  location: University of Missouri-Columbia,
+  country: United States
+  url: http://homepage.divms.uiowa.edu/~fbleher/CGMRT2016.html
+
+- start: 2016-11-17
+  end: 2016-11-18
+  title: "Lens Topology and Geometry 2016"
+  type: workshop
+  location: Lens
+  country: France
+  url: "https://sites.google.com/site/lenstopologyandgeometry2016/home"
