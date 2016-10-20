@@ -527,3 +527,43 @@
   location: Lens
   country: France
   url: "https://sites.google.com/site/lenstopologyandgeometry2016/home"
+
+- start: 2017-04-24
+  end: 2017-04-28
+  title: "Advances in birational geometry"
+  type: workshop
+  location: Vienna
+  country: Austria
+  url: "http://www.esi.ac.at/activities/events/2017/advances-in-birational-geometry"
+
+- start: 2017-05-02
+  end: 2017-05-05
+  title: "Advances in birational geometry"
+  type: workshop
+  location: Vienna
+  country: Austria
+  url: "http://www.esi.ac.at/activities/events/2017/advances-in-birational-geometry"
+
+- start: 2017-05-15
+  end: 2017-05-19
+  title: "Advances in birational geometry"
+  type: workshop
+  location: Vienna
+  country: Austria
+  url: "http://www.esi.ac.at/activities/events/2017/advances-in-birational-geometry"
+
+- start: 2017-01-16
+  end: 2017-01-27
+  title: "Geometry and representation theory"
+  type: conference
+  location: Vienna
+  country: Austria
+  url: "http://imsc.uni-graz.at/baur/ESI2017/"
+
+- start: 2017-04-03
+  end: 2017-04-07
+  title: "Conference on invertible objects and duality in derived algebraic geometry and homotopy theory"
+  type: conference
+  location: Regensburg
+  country: Germany
+  url: "http://www-cgi.uni-regensburg.de/Fakultaeten/MAT/sfb-higher-invariants/index.php/SpringSchool2017"
