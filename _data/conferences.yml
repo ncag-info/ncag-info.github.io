@@ -567,3 +567,11 @@
   location: Regensburg
   country: Germany
   url: "http://www-cgi.uni-regensburg.de/Fakultaeten/MAT/sfb-higher-invariants/index.php/SpringSchool2017"
+
+- start: 2017-07-03
+  end: 2017-07-07
+  title: "Current topics in the theory of algebraic groups"
+  type: school
+  location: Dijon
+  country: France
+  url: "http://school-tlag2017.math.cnrs.fr/index.html"
