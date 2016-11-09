@@ -577,3 +577,11 @@
   location: Dijon
   country: France
   url: "http://school-tlag2017.math.cnrs.fr/index.html"
+
+- start: 2017-01-26
+  end: 2017-01-29
+  type: workshop
+  title: "Postdoctoral workshop on homological mirror symmetry"
+  country: United States
+  location: Miami
+  url: https://schms.math.berkeley.edu/events/miami2017/
