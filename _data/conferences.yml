@@ -585,3 +585,11 @@
   country: United States
   location: Miami
   url: https://schms.math.berkeley.edu/events/miami2017/
+
+- start: 2017-07-03
+  end: 2017-07-07
+  type: school
+  title: "Summer school in enumerative geometry"
+  country: Italy
+  location: Trieste
+  url: "http://people.sissa.it/~aborale/ssieg/homessieg.html">
