@@ -593,3 +593,11 @@
   country: Italy
   location: Trieste
   url: "http://people.sissa.it/~aborale/ssieg/homessieg.html"
+
+- start: 2016-07-24
+  end: 2016-07-28
+  type: workshop
+  title: "Matrix factorisations and related topics"
+  country: United Kingdom
+  location: Edinburgh
+  url: "http://www.icms.org.uk/workshops/matrix"
