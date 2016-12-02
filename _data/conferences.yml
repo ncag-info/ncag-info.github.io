@@ -601,3 +601,11 @@
   country: United Kingdom
   location: Edinburgh
   url: "http://www.icms.org.uk/workshops/matrix"
+
+- start: 2017-01-09
+  end: 2017-01-13
+  type: workshop
+  title: "Stability conditions, Donaldson-Thomas invariants and cluster varieties"
+  country: United Kingdom
+  location: Sheffield
+  url: "http://www.tom-bridgeland.staff.shef.ac.uk/workshop.html"
