@@ -617,3 +617,19 @@
   country: Italy
   location: Trieste
   url: "http://people.sissa.it/~aborale/ssieg/homessieg.html"
+
+- start: 2017-07-05
+  end: 2017-07-08
+  type: school
+  title: "School on deformation theory"
+  country: Italy
+  location: Turin
+  url: "http://www.deformationschool.unito.it/"
+
+- start: 2017-04-24
+  end: 2017-04-28
+  title: "Teichmüller theory in higher dimensions and mirror symmetry"
+  type: conference
+  country: France
+  location: Angers
+  url: "https://www.lebesgue.fr/content/sem2017-teich"
