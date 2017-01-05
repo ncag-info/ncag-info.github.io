@@ -633,3 +633,20 @@
   country: France
   location: Angers
   url: "https://www.lebesgue.fr/content/sem2017-teich"
+
+- start: 2017-05-29
+  end: 2017-06-02
+  title: "Derived noncommutative geometry"
+  type: school
+  country: Germany
+  location: Bonn
+  url: "https://www.hcm.uni-bonn.de/events/eventpages/hausdorff-school/wwwhcmuni-bonndehsfasim0/noncommutative-geometry-2017/"
+
+- start: 2017-06-19
+  end: 2017-06-23
+  title: "Arbeitstagung 2017 on 'Physical Mathematics' in honor of Yuri Manin's contributions to the field"
+  type: conference
+  country: Germany
+  location: Bonn
+  url: "https://www.mpim-bonn.mpg.de/node/6826"
+
