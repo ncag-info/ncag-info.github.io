@@ -647,5 +647,13 @@
   title: "Stratifications and duality in modular representation theory"
   type: workshop
   country: Denmark
-  location: Copenhangen
+  location: Copenhagen
   url: "http://www.math.ku.dk/english/research/conferences/2017/stratifications-and-duality/"
+
+- start: 2017-07-12
+  end: 2017-07-15
+  title: "Derived algebraic geometry and interactions"
+  type: workshop
+  country: France
+  location: Toulouse
+  url: https://www.math.univ-toulouse.fr/dagit/
