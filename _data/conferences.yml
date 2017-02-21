@@ -656,4 +656,19 @@
   type: workshop
   country: France
   location: Toulouse
-  url: https://www.math.univ-toulouse.fr/dagit/
+  url: "https://www.math.univ-toulouse.fr/dagit/"
+
+- start: 2017-02-20
+  end: 2017-02-23
+  title: "Derived categories and birational geometry"
+  type: workshop
+  country: Japan
+  location: Osaka
+  url: "https://sites.google.com/site/feb2017osaka/home"
+
+- start: 2016-11-14
+  end: 2016-11-18
+  title: "Categorical and analytic invariants in algebraic geometry 4"
+  type: workshop
+  country: Japan
+  location: Kavli IPMU
