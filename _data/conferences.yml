@@ -673,3 +673,11 @@
   type: workshop
   country: Japan
   location: Kavli IPMU
+
+- start: 2017-07-31
+  end: 2017-08-04
+  title: Quantization (GAP XV)
+  type: workshop
+  country: United States
+  location: Pennsylvania State University
+  url: http://www.geometryandphysics.org/gapxv/
