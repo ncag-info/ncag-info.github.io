@@ -680,4 +680,12 @@
   type: workshop
   country: United States
   location: Pennsylvania State University
-  url: http://www.geometryandphysics.org/gapxv/
+  url: "http://www.geometryandphysics.org/gapxv/"
+
+- start: 2018-05-27
+  end: 2018-06-02
+  title: Interactions between algebraic geometry and noncommutative algebra
+  type: workshop
+  country: Germany
+  location: Oberwolfach
+  url: "https://www.mfo.de/occasion/1822/www_view"
