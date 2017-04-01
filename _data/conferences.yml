@@ -689,3 +689,26 @@
   country: Germany
   location: Oberwolfach
   url: "https://www.mfo.de/occasion/1822/www_view"
+
+- start: 2017-09-18
+  end: 2017-09-22
+  title: Modern moduli theory
+  type: school
+  country: United Kingdom
+  location: Oxford
+  url: "http://people.maths.ox.ac.uk/~joyce/MMT2017/Information.html"
+
+- start: 2017-09-25
+  end: 2017-09-29
+  title: Modern moduli theory
+  country: United Kingdom
+  location: Oxford
+  url: "http://www.claymath.org/events/modern-moduli-theory"
+
+- start: 2017-05-29
+  end: 2017-06-02
+  title: Mirror symmetry
+  type: conference
+  country: United States
+  location: Ann Arbor
+  url: "https://sites.google.com/site/mirrorsymmetryconference/home"
