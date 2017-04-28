@@ -712,3 +712,19 @@
   country: United States
   location: Ann Arbor
   url: "https://sites.google.com/site/mirrorsymmetryconference/home"
+
+- start: 2017-08-21
+  end: 2017-08-25
+  title: "Interactions between representation theory and algebraic geometry"
+  type: conference
+  country: United States
+  location: Chicago
+  url: "https://sites.google.com/site/2017uchicagomathconference/welcome"
+
+- start: 2017-07-03
+  end: 2017-07-07
+  title: "Geometric representation theory"
+  type: conference
+  country: United Kingdom
+  location: Glasgow
+  url: "http://www.maths.gla.ac.uk/~gbellamy/GRT/index.html"
