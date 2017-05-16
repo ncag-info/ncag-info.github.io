@@ -728,3 +728,11 @@
   country: United Kingdom
   location: Glasgow
   url: "http://www.maths.gla.ac.uk/~gbellamy/GRT/index.html"
+
+- start: 2017-09-25
+  end: 2017-09-29
+  title: "Noncommutative algebraic geometry and related topics"
+  type: workshop
+  country: Japan
+  location: Kyoto
+  url: "http://kappa.math.unb.ca/rimswkshop/rimswkshp2017.html"
