@@ -736,3 +736,27 @@
   country: Japan
   location: Kyoto
   url: "http://kappa.math.unb.ca/rimswkshop/rimswkshp2017.html"
+
+- start: 2017-08-10
+  end: 2017-08-10
+  title: "Seattle noncommutative algebra day"
+  type: workshop
+  country: United States
+  location: Seattle
+  url: "https://sites.math.washington.edu/~zhang/SeattleAlgebraDay2017Aug/index.html"
+
+- start: 2017-08-30
+  end: 2017-09-02
+  title: "Noncommutative and non-associative algebraic structures in physics and geometry"
+  type: conference
+  country: United Kingdom
+  location: Belfast
+  url: "https://sites.google.com/site/algebrabelfast2010/alspag2017"
+
+- start: 2018-03-19
+  end: 2018-03-23
+  title: "School on birational geometry of hypersurfaces"
+  type: school
+  country: Italy
+  location: Brescia
+  url: "https://sites.google.com/site/gargnano2018/"
