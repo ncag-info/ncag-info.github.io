@@ -760,3 +760,27 @@
   country: Italy
   location: Brescia
   url: "https://sites.google.com/site/gargnano2018/"
+
+- start: 2017-06-25
+  end: 2017-06-30
+  title: "Advances in noncommutative algebra and representation theory"
+  type: workshop
+  country: Israel
+  location: Ramat Gan
+  url: "http://u.math.biu.ac.il/~vishne/Conferences/Rowen2017/index.html"
+
+- start: 2018-01-29
+  end: 2018-02-03
+  title: "Mirror symmetry and related topics"
+  type: conference
+  country: United States
+  location: Miami
+  url: "https://schms.math.berkeley.edu/events/miami2018/"
+
+- start: 2018-03-26
+  end: 2018-03-30
+  title: "Mirror symmetry and enumerative geometry"
+  type: conerence
+  country: United States
+  location: Berkeley
+  url: "https://schms.math.berkeley.edu/events/berkeley2018/u"
