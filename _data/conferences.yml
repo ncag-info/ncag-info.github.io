@@ -800,3 +800,11 @@
   country: Canada
   location: Toronto
   url: "http://www.fields.utoronto.ca/activities/18-19/Poisson-2018"
+
+- start: 2017-12-04
+  end: 2017-12-08
+  title: "A_{\infty}-structures in geometry and representation theory"
+  type: conference
+  country: Germany
+  location: Bonn
+  url: "http://www.him.uni-bonn.de/programs/future-programs/future-junior-trimester-programs/representation-theory-2017/workshop-a-infinity-structures-in-geometry-and-representation-theory/"
