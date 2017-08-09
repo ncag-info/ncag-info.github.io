@@ -780,7 +780,23 @@
 - start: 2018-03-26
   end: 2018-03-30
   title: "Mirror symmetry and enumerative geometry"
-  type: conerence
+  type: conference
   country: United States
   location: Berkeley
   url: "https://schms.math.berkeley.edu/events/berkeley2018/u"
+
+- start: 2018-07-09
+  end: 2018-07-13
+  title: "Summer school on Poisson geometry"
+  type: school
+  country: Canada
+  location: Toronto
+  url: "http://www.fields.utoronto.ca/activities/18-19/Poisson-summer-school"
+
+- start: 2018-07-16
+  end: 2018-07-20
+  title: "International conference on Poisson geometry"
+  type: conference
+  country: Canada
+  location: Toronto
+  url: "http://www.fields.utoronto.ca/activities/18-19/Poisson-2018"
