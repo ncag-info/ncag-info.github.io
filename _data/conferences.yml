@@ -808,3 +808,11 @@
   country: Germany
   location: Bonn
   url: "http://www.him.uni-bonn.de/programs/future-programs/future-junior-trimester-programs/representation-theory-2017/workshop-a-infinity-structures-in-geometry-and-representation-theory/"
+
+- start: 2017-09-04
+  end: 2017-09-05
+  title: "The 60th birthday of Amnon Neeman"
+  type: conference
+  country: Australia
+  location: Canberra
+  url: "http://maths.anu.edu.au/events/60th-birthday-amnon-neeman"
