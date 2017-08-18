@@ -816,3 +816,19 @@
   country: Australia
   location: Canberra
   url: "http://maths.anu.edu.au/events/60th-birthday-amnon-neeman"
+
+- start: 2017-03-06
+  end: 2017-03-10
+  title: "Current topics in algebraic and symplectic geometry"
+  type: conference
+  country: Japan
+  location: Kyoto
+  url: "https://sites.google.com/site/kyotoworkshop20173/home"
+
+- start: 2017-10-24
+  end: 2017-10-26
+  title: "Mirror symmetry and Fano manifolds"
+  type: workshop
+  country: United Kingdom
+  location: London
+  url: "http://geometry.ma.ic.ac.uk/3CinG/index.php/current-and-future-events/3cing-workshop-on-mirror-symmetry-and-fano-manifolds-october-24-26-2017-lms-de-morgan-house-london/"
