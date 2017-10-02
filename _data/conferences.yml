@@ -840,3 +840,27 @@
   country: Japan
   location: Osaka
   url: "https://sites.google.com/site/nov2017osaka/"
+
+- start: 2018-02-19
+  end: 2018-02-23
+  title: "Workshop in deformation theory III"
+  type: workshop
+  country: Italy
+  location: Bari
+  url: "http://www.dm.uniba.it/~iacono/WDT/indexWDT.html"
+
+- start: 2018-03-17
+  end: 2018-03-19
+  title: "Recent developments in noncommutative algebra and related areas"
+  type: workshop
+  country: United States
+  location: Seattle
+  url: "https://sites.math.washington.edu/~zhang/SeattleRDncAR2018/index.html"
+
+- start: 2017-11-01
+  end: 2017-11-02
+  title: "Workshop on mirror symmetry"
+  type: workshop
+  country: United Kingdom
+  location: Kent
+  url: "https://www.kent.ac.uk/smsas/personal/cmap/Workshop/Canterbury2017/MSym.html"
