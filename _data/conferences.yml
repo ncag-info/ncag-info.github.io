@@ -864,3 +864,11 @@
   country: United Kingdom
   location: Kent
   url: "https://www.kent.ac.uk/smsas/personal/cmap/Workshop/Canterbury2017/MSym.html"
+
+- start: 2018-04-09
+  end: 2018-04-11
+  title: "Algebraic Analysis, in honor of Pierre Schapira's 75th birthday"
+  type: workshop
+  country: France
+  location: Paris
+  url: "http://monge.u-bourgogne.fr/gdito/pierre75/index.php?page=home"
