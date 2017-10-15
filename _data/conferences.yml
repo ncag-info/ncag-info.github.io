@@ -872,3 +872,11 @@
   country: France
   location: Paris
   url: "http://monge.u-bourgogne.fr/gdito/pierre75/index.php?page=home"
+
+- start: 2018-01-29
+  end: 2018-02-03
+  title: "Mirror symmetry and related topics"
+  type: workshop
+  country: United States
+  location: Miami
+  url: "https://schms.math.berkeley.edu/events/miami2018/"
