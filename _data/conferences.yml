@@ -873,14 +873,6 @@
   location: Paris
   url: "http://monge.u-bourgogne.fr/gdito/pierre75/index.php?page=home"
 
-- start: 2018-01-29
-  end: 2018-02-03
-  title: "Mirror symmetry and related topics"
-  type: workshop
-  country: United States
-  location: Miami
-  url: "https://schms.math.berkeley.edu/events/miami2018/"
-
 - start: 2018-03-25
   end: 2018-03-31
   title: "Enumerative invariants from differential graded Lie algebras and categories"
@@ -904,3 +896,43 @@
   country: Luxemburg
   location: Luxemburg
   url: "http://math.uni.lu/quantmod/"
+
+- start: 2018-07-15
+  end: 2018-07-26
+  title: "Summer school on homological algebra of mirror symmetry"
+  type: school
+  country: Canada
+  location: Toronto
+  url: "http://www.fields.utoronto.ca/activities/19-20/mirrorsymmetry-summerschool"
+
+- start: 2018-07-29
+  end: 2018-08-02
+  title: "New structures in algebraic geometry and their symplectic interpretations"
+  type: workshop
+  country: Canada
+  location: Toronto
+  url: "http://www.fields.utoronto.ca/activities/19-20/mirrorsymmetry-symmetries"
+
+- start: 2018-09-16
+  end: 2018-09-20
+  title: "The geometry and algebra of Landau-Ginzburg models"
+  type: workshop
+  country: Canada
+  location: Toronto
+  url: "http://www.fields.utoronto.ca/activities/19-20/mirrorsymmetry-landau-ginzburg"
+
+- start: 2018-11-18
+  end: 2018-11-22
+  title: "Workshop on higher structures in geometry and physics"
+  type: workshop
+  country: Canada
+  location: Toronto
+  url: "http://www.fields.utoronto.ca/activities/19-20/mirrorsymmetry-non-archimedean"
+
+- start: 2018-09-26
+  end: 2018-10-05
+  title: "CATS5"
+  type: conference
+  country: Portugal
+  location: Lisbon
+  url: "https://bebtoen.wixsite.com/nedag/cats5"
