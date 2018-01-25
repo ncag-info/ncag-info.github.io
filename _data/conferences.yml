@@ -944,3 +944,11 @@
   country: France
   location: Toulouse
   url: "http://www.cimi.univ-toulouse.fr/en/events/workshop-semiorthogonal-decompositions-stability-conditions-and-sheaves-categories"
+
+- start: 2018-07-04
+  end: 2018-07-06
+  title: "The arithmetic of derived categories"
+  type: workshop
+  country: Italy
+  location: Trento
+  url: "http://www.folk.uib.no/sti004/Trento.html"
