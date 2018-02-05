@@ -952,3 +952,27 @@
   country: Italy
   location: Trento
   url: "http://www.folk.uib.no/sti004/Trento.html"
+
+- start: 2017-12-12
+  end: 2017-12-18
+  title: "Mirror symmetry and applications"
+  type: conference
+  url: "https://msaa.mirrorsymmetry.ru/index.html"
+  location: Moscow
+  country: Russia
+
+- start: 2017-05-28
+  end: 2017-06-02
+  title: "Inaugural conference for the laboratory of mirror symmetry and automorphic forms"
+  url: "http://inconf.mirrorsymmetry.ru/"
+  type: conference
+  location: Moscow
+  country: Russia
+
+- start: 2018-04-16
+  end: 2018-04-20
+  title: "Sheaves, curves and moduli"
+  url: "http://sheaves.ux.uis.no/workshop2018/"
+  type: workshop
+  location: Stavanger
+  country: Norway
