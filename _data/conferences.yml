@@ -791,7 +791,7 @@
   type: school
   country: Canada
   location: Toronto
-  url: "http://www.fields.utoronto.ca/activities/18-19/Poisson-summer-school"
+  url: "http://www.fields.utoronto.ca/activities/18-19/poisson-summer-school"
 
 - start: 2018-07-16
   end: 2018-07-20
@@ -799,7 +799,7 @@
   type: conference
   country: Canada
   location: Toronto
-  url: "http://www.fields.utoronto.ca/activities/18-19/Poisson-2018"
+  url: "http://www.fields.utoronto.ca/activities/18-19/poisson-2018"
 
 - start: 2017-12-04
   end: 2017-12-08
@@ -905,24 +905,24 @@
   location: Toronto
   url: "http://www.fields.utoronto.ca/activities/19-20/mirrorsymmetry-summerschool"
 
-- start: 2018-07-29
-  end: 2018-08-02
+- start: 2019-07-29
+  end: 2019-08-02
   title: "New structures in algebraic geometry and their symplectic interpretations"
   type: workshop
   country: Canada
   location: Toronto
   url: "http://www.fields.utoronto.ca/activities/19-20/mirrorsymmetry-symmetries"
 
-- start: 2018-09-16
-  end: 2018-09-20
+- start: 2019-09-16
+  end: 2019-09-20
   title: "The geometry and algebra of Landau-Ginzburg models"
   type: workshop
   country: Canada
   location: Toronto
   url: "http://www.fields.utoronto.ca/activities/19-20/mirrorsymmetry-landau-ginzburg"
 
-- start: 2018-11-18
-  end: 2018-11-22
+- start: 2019-11-18
+  end: 2019-11-22
   title: "Workshop on higher structures in geometry and physics"
   type: workshop
   country: Canada
