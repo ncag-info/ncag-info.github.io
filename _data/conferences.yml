@@ -984,3 +984,11 @@
   type: workshop
   location: Hannover
   country: Germany
+
+- start: 2018-06-24
+  end: 2018-06-29
+  title: "Geometry and topology inspired by physics"
+  type: workshop
+  location: Ascona
+  country: Switzerland
+  url: "http://www.nccr-swissmap.ch/events/geometry-and-topology-inspired-physics"
