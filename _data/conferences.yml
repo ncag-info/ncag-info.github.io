@@ -992,3 +992,11 @@
   location: Ascona
   country: Switzerland
   url: "http://www.nccr-swissmap.ch/events/geometry-and-topology-inspired-physics"
+
+- start: 2018-07-09
+  end: 2018-07-27
+  title: "Homological methods in algebra and geometry II"
+  type: workshop
+  location: "Dar-es-Salaam"
+  country: Tanzania
+  url: "https://eaumpictp2018.weebly.com/"
