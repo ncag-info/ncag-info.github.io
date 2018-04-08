@@ -1008,3 +1008,11 @@
   location: "Athens"
   country: United States
   url: "https://research.franklin.uga.edu/topology/GTC2018"
+
+- start: 2018-06-11
+  end: 2018-06-13
+  title: "Quantum integrability and quantum Schubert calculus"
+  type: workshop
+  location: Buckinghamshire
+  country: United Kingdom
+  url: "https://royalsociety.org/science-events-and-lectures/2018/06/quantum-integrability/"
