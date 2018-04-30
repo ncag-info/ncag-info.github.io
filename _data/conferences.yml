@@ -1016,3 +1016,11 @@
   location: Buckinghamshire
   country: United Kingdom
   url: "https://royalsociety.org/science-events-and-lectures/2018/06/quantum-integrability/"
+
+- start: 2018-10-27
+  end: 2018-10-28
+  title: "Special Session on Homological Aspects of Noncommutative Algebra and Geometry"
+  location: "San Francisco"
+  country: United States
+  type: workshop
+  url: "http://www.ams.org/meetings/sectional/2257_program_ss2.html"
