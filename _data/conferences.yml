@@ -1056,3 +1056,11 @@
   country: Canada
   type: workshop
   url: "http://www.fields.utoronto.ca/activities/19-20/rrage"
+
+- start: 2018-05-28
+  end: 2018-06-02
+  title: "Algebraic geometry and its applications"
+  location: "Sint-Petersburg"
+  country: Russia
+  type: conference
+  url: "http://www.pdmi.ras.ru/EIMI/2018/AG&A/index.html"
