@@ -24,6 +24,18 @@ dd.past {
   opacity: 0.4;
 }
 
-dt.new-month, dt.new-month + dd {
-  border-top: 15px solid transparent;
+@media (min-width: 700px) {
+  dt.new-month, dt.new-month + dd {
+    border-top: 15px solid transparent;
+  }
+}
+
+@media (max-width: 700px) {
+  dt {
+    display: block;
+  }
+
+  dt.new-month {
+    border-top: 15px solid transparent;
+  }
 }
