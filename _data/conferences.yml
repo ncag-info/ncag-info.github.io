@@ -1024,3 +1024,35 @@
   country: United States
   type: workshop
   url: "http://www.ams.org/meetings/sectional/2257_program_ss2.html"
+
+- start: 2019-09-01
+  end: 2019-09-06
+  title: "Tilting theory, singularity categories and noncommutative resolutions"
+  location: Banff
+  country: Canada
+  type: workshop
+  url: "http://www.birs.ca/events/2019/5-day-workshops/19w5161"
+
+- start: 2019-08-11
+  end: 2019-08-16
+  title: "Mutations: mirror symmetry, deformations and combinatorics"
+  location: Banff
+  country: Canada
+  type: workshop
+  url: "http://www.birs.ca/events/2019/5-day-workshops/19w5179"
+
+- start: 2019-11-10
+  end: 2019-11-15
+  title: "Interactions between Brauer groups, derived categories and birational geometry of projective varieties"
+  location: Banff
+  country: Canada
+  type: workshop
+  url: "http://www.birs.ca/events/2019/5-day-workshops/19w5164"
+
+- start: 2019-07-08
+  end: 2019-07-12
+  title: "RRAGE: Ragnar's ramifications in algebra and geometry emerging workshop"
+  location: Toronto
+  country: Canada
+  type: workshop
+  url: "http://www.fields.utoronto.ca/activities/19-20/rrage"
