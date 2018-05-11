@@ -1064,3 +1064,18 @@
   country: Russia
   type: conference
   url: "http://www.pdmi.ras.ru/EIMI/2018/AG&A/index.html"
+
+- start: 2018-04-07
+  end: 2018-04-08
+  title: "Stability conditions and homological projective duality"
+  location: "Ann Arbor"
+  type: workshop
+  country: United States
+  url: "https://sites.google.com/umich.edu/dualityandstability"
+
+- start: 2018-05-23
+  end: 2018-05-23
+  title: "Derived categories and stability conditions"
+  type: workshop
+  location: Sheffield
+  country: "United Kingdom"
