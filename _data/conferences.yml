@@ -1079,3 +1079,19 @@
   type: workshop
   location: Sheffield
   country: "United Kingdom"
+
+- start: 2018-05-21
+  end: 2018-06-07
+  title: "Hodge theory: old and new"
+  type: conference
+  location: Moscow
+  country: Russia
+  url: "http://hodge.mirrorsymmetry.ru/index.html"
+
+- start: 2018-09-17
+  end: 2018-09-21
+  title: "Moduli spaces and related problems"
+  type: workshop
+  location: Shanghai
+  country: China
+  url: "http://www.scms.fudan.edu.cn/workshop/schedule/61987acc-ba26-41e6-b24f-a84200e85b53.html"
