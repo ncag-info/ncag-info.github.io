@@ -1095,3 +1095,35 @@
   location: Shanghai
   country: China
   url: "http://www.scms.fudan.edu.cn/workshop/schedule/61987acc-ba26-41e6-b24f-a84200e85b53.html"
+
+- start: 2018-07-12
+  end: 2018-07-13
+  title: "Geometry, derived categories and moduli spaces"
+  type: workshop
+  location: Plymouth
+  country: "United Kingdom"
+  url: "https://www.fose1.plymouth.ac.uk/socem/cms/workshop/Geometry/"
+
+- start: 2018-07-11
+  end: 2018-07-14
+  title: "Cluster algebras and algebraic geometry"
+  type: workshop
+  location: Nottingham
+  country: "United Kingdom"
+  url: "https://www.maths.nottingham.ac.uk/personal/pmzap1/CAAG/"
+
+- start: 2019-09-16
+  end: 2019-09-20
+  title: "Noncommutative surfaces and Artin's conjecture"
+  type: workshop
+  location: "San José"
+  country: "United States"
+  url: "https://aimath.org/workshops/upcoming/ncsurfaceartin/"
+
+- start: 2019-07-29
+  end: 2019-08-02
+  title: "Rationality problems in algebraic geometry"
+  type: workshop
+  location: "San José"
+  country: "United States"
+  url: "https://aimath.org/workshops/upcoming/rationalityag/"
