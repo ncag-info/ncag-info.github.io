@@ -1127,3 +1127,11 @@
   location: "San José"
   country: "United States"
   url: "https://aimath.org/workshops/upcoming/rationalityag/"
+
+- start: 2018-11-27
+  end: 2018-11-30
+  title: "Workshop on young perspectives in deformation theory"
+  type: workshop
+  location: Turin
+  country: Italy
+  url: "https://sites.google.com/site/ypdt2018/home"
