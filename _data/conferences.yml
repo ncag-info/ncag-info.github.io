@@ -232,7 +232,7 @@
   end: 2016-06-17
   title: Non-commutative crepant resolutions, Ulrich modules and generalizations of the McKay correspondence
   type: workshop
-  location: "RIMS, Kyoto University"
+  location: Kyoto
   country: Japan
   url: http://www.math.nagoya-u.ac.jp/~y-ito/rims2016.html
 
@@ -1135,3 +1135,11 @@
   location: Turin
   country: Italy
   url: "https://sites.google.com/site/ypdt2018/home"
+
+- start: 2018-12-03
+  end: 2018-12-07
+  title: "D-modules, quantum geometry and related topics"
+  location: Kyoto
+  country: Japan
+  type: workshop
+  url: "https://indico.math.cnrs.fr/event/2425/"
