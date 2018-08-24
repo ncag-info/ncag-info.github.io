@@ -1143,3 +1143,43 @@
   country: Japan
   type: workshop
   url: "https://indico.math.cnrs.fr/event/2425/"
+
+- start: 2018-12-13
+  end: 2018-12-14
+  title: "Finite-dimensional algebras, homotopy theory, and geometry"
+  location: Glasgow
+  country: United Kingdom
+  type: workshop
+  url: "http://www.maths.gla.ac.uk/~gstevenson/fdhg-conf.html"
+
+- start: 2019-04-07
+  end: 2019-04-19
+  title: "Isfahan school and conference on representations of algebras"
+  location: Isfahan
+  country: Iran
+  type: school
+  url: "http://iscra.ui.ac.ir/school/"
+
+- start: 2018-09-10
+  end: 2018-09-14
+  title: "Motives and their applications"
+  location: "St-Petersburg"
+  country: Russia
+  type: conference
+  url: "https://sites.google.com/view/mispb2018/home"
+
+- start: 2018-08-08
+  end: 2018-08-11
+  title: "Representations of algebras (ICRA)"
+  location: Prague
+  country: Czech Republic
+  type: workshop
+  url: "http://icra2018.cz"
+
+- start: 2018-08-13
+  end: 2018-08-17
+  title: "Representations of algebras (ICRA)"
+  location: Prague
+  country: Czech Republic
+  type: conference
+  url: "http://icra2018.cz"
