@@ -1183,3 +1183,11 @@
   country: Czech Republic
   type: conference
   url: "http://icra2018.cz"
+
+- start: 2019-09-09
+  end: 2019-09-13
+  title: "The geometry of derived categories"
+  url: "http://pcwww.liv.ac.uk/~arizzard/workshop2019.html"
+  location: Liverpool
+  country: United Kingdom
+  type: workshop
