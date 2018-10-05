@@ -1199,3 +1199,27 @@
   location: Warsaw
   country: Poland
   type: conference
+
+- start: 2018-12-10
+  end: 2018-12-14
+  title: "Mirror symmetry for Fano manifolds and related topics"
+  url: "https://www.math.kyoto-u.ac.jp/~iritani/mirrorsymmetry2018/workshop2018"
+  location: Kyoto
+  country: Japan
+  type: workshop
+
+- start: 2018-11-19
+  end: 2018-11-23
+  title: "Noncommutative deformations and moduli spaces"
+  url: "https://indico.ipmu.jp/indico/event/162/"
+  location: Tokyo
+  country: Japan
+  type: workshop
+
+- start: 2018-11-26
+  end: 2018-11-30
+  title: "Categorical and analytic invariants in algebraic geometry VI"
+  url: "https://sites.google.com/view/nov2018hokkaido/top"
+  location: Sapporo
+  country: Japan
+  type: workshop
