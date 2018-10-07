@@ -1223,3 +1223,11 @@
   location: Sapporo
   country: Japan
   type: workshop
+
+- start: 2018-08-27
+  end: 2018-09-01
+  title: "Current developments in geometry"
+  url: "http://www.math.nsc.ru/conference/ageom/index.htm"
+  location: Novosibirsk
+  country: Russa
+  type: school
