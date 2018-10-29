@@ -1231,3 +1231,11 @@
   location: Novosibirsk
   country: Russa
   type: school
+
+- start: 2019-06-24
+  end: 2019-06-28
+  title: "Workshop on derived categories, moduli spaces and deformation theory"
+  url: "https://sites.google.com/view/derived-cetraro"
+  location: Cetraro
+  country: Italy
+  type: workshop
