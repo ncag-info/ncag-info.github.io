@@ -1239,3 +1239,11 @@
   location: Cetraro
   country: Italy
   type: workshop
+
+- start: 2018-11-26
+  end: 2018-11-28
+  title: "Workshop on moduli theory and derived categories"
+  url: "https://cgp.ibs.re.kr/activities/conferences/302"
+  location: Pohang
+  country: "South Korea"
+  type: workshop
