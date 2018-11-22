@@ -1255,3 +1255,11 @@
   location: Dublin
   country: Ireland
   type: workshop
+
+- start: 2019-06-24
+  end: 2019-06-29
+  title: "Triangulated categories in geometry and representation theory"
+  url: "https://sites.google.com/site/ausreptheory/workshop-2019"
+  location: Sydney
+  country: Australia
+  type: workshop
