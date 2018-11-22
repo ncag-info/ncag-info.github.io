@@ -1247,3 +1247,11 @@
   location: Pohang
   country: "South Korea"
   type: workshop
+
+- start: 2019-05-27
+  end: 2019-05-31
+  title: "Homotopy meets homology"
+  url: "https://www.maths.tcd.ie/~vdots/HMI2019.html"
+  location: Dublin
+  country: Ireland
+  type: workshop
