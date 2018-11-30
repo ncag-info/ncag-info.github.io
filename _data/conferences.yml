@@ -1263,3 +1263,19 @@
   location: Sydney
   country: Australia
   type: workshop
+
+- start: 2019-03-27
+  end: 2019-03-30
+  title: "Geometry and mathematical physics workshop"
+  url: "https://sites.google.com/site/gmplboro/gmp2019"
+  location: Loughborough
+  country: United Kingdom
+  type: workshop
+
+- start: 2019-04-01
+  end: 2019-04-03
+  title: "Mirrors in the Midlands"
+  url: "https://sites.google.com/view/tylerkelly/mirrors-in-the-midlands"
+  location: Birmingham
+  country: United Kingdom
+  type: workshop
