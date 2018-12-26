@@ -1287,3 +1287,11 @@
   type: workshop
   country: Italy
   location: Rimini
+
+- start: 2019-01-28
+  end: 2019-02-02
+  title: "Mirror symmetry and related topics"
+  url: "https://schms.math.berkeley.edu/events/miami2019/"
+  type: workshop
+  country: United States
+  location: Miami
