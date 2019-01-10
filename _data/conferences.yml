@@ -1295,3 +1295,19 @@
   type: workshop
   country: United States
   location: Miami
+
+- start: 2019-01-15
+  end: 2019-01-17
+  title: "Winterschool on Poisson structures in algebraic geometry"
+  url: "http://events.kias.re.kr/h/WSP19/?pageNo=3433"
+  type: school
+  country: Korea
+  location: Busan
+
+- start: 2019-03-19
+  end: 2019-03-23
+  title: "Interactions between commutative algebra, representation theory and algebraic geometry"
+  url: "https://www.uni-muenster.de/Arithm/hille/tagungen/Tagung2019.html"
+  type: conference
+  country: Germany
+  location: Münster
