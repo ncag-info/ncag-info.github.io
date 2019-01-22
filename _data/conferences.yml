@@ -1311,3 +1311,11 @@
   type: conference
   country: Germany
   location: Münster
+
+- start: 2019-01-31
+  end: 2019-02-01
+  title: "Enhancing representation theory, noncommutative algebra and geometry through moduli, stability and deformations: kick off workshop"
+  type: workshop
+  country: United Kingdom
+  location: Edinburgh
+  url: "https://sites.google.com/view/enhancingrng/events"
