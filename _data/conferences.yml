@@ -1319,3 +1319,27 @@
   country: United Kingdom
   location: Edinburgh
   url: "https://sites.google.com/view/enhancingrng/events"
+
+- start: 2019-06-24
+  end: 2019-06-28
+  title: "Birational geometry and Fano varieties"
+  type: conference
+  country: Russia
+  location: Moscow
+  url: "http://www.mi-ras.ru/~prokhoro/conf/isk19/isk19.html"
+
+- start: 2019-09-30
+  end: 2019-10-04
+  title: "The geometry of algebraic varieties"
+  type: conference
+  country: France
+  location: Luminy
+  url: "http://www.math.ens.fr/~benoist/conference.html"
+
+- start: 2019-05-26
+  end: 2019-05-31
+  title: "Derived categories and related topics"
+  location: Guangzhou
+  country: China
+  type: conference
+
