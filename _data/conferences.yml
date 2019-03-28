@@ -1343,3 +1343,42 @@
   country: China
   type: conference
 
+- start: 2019-06-03
+  end: 2019-06-07
+  title: "New perspectives in Gromov-Witten theory"
+  location: Paris
+  country: France
+  type: school
+  url: "http://school2019.imj-prg.fr/"
+
+- start: 2019-03-23
+  end: 2019-03-23
+  title: "Seattle Noncommutative algebra day"
+  location: Seattle
+  country: United States
+  type: workshop
+  url: https://sites.math.washington.edu/~zhang/SeattleAlgebraDay2019March/index.html
+
+- start: 2020-07-12
+  end: 2020-07-18
+  title: "Algebraic geometry: moduli spaces, birational geometry and derived aspects"
+  location: Oberwolfach
+  country: Germany
+  type: workshop
+  url: https://www.mfo.de/occasion/2029/www_view
+
+- start: 2020-11-01
+  end: 2020-11-06
+  title: "Derived, birational and categorical algebraic geometry"
+  location: Banff
+  country: Canada
+  type: workshop
+  url: https://www.birs.ca/events/2020/5-day-workshops/20w5176
+
+- start: 2020-10-11
+  end: 2020-10-16
+  title: "Poisson geometry and Artin-Schelter regular algebras"
+  location: Hangzhou
+  country: China
+  type: workshop
+  url: https://www.birs.ca/events/2020/5-day-workshops/20w5072
