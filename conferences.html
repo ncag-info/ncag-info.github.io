@@ -3,8 +3,10 @@ layout: page
 title: Conferences
 ---
 
-<p>If you have contributions to make, please get in touch on <a href="mailto:pbelmans@mpim-bonn.mpg.be">pbelmans@mpim-bonn.mpg.be</a>.
+<p>If you have contributions to make, please get in touch on <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+
 <p>This website has last been updated on <a href="https://github.com/ncag-info/ncag-info.github.io/commits/master">{{ site.time | date: '%B %d, %Y' }}</a>.
+
 {% assign conferences = site.data.conferences | sort: "start" | reverse %}
 <dl class="dl-horizontal" id="conferences">
 {% assign month = "" %}
@@ -23,6 +25,21 @@ title: Conferences
     {% endif %}
 
   {% assign month = new %}
-  <dd>{{ conference.location }}, {{ conference.country }}
+
+  <dd>
+  {% for country in site.data.iso-3166-1 %}
+    {% assign uppercase = conference.country | upcase %}
+
+    {% if country["COUNTRY NAME"] == uppercase %}
+      <span class="flag-icon flag-icon-{{ country["ALPHA2"] | downcase }}"></span>
+    {% endif %}
+  {% endfor %}
+  {{ conference.location }}, {{ conference.country }}
+
+  {% comment %}
+    flags are built using:
+    - https://github.com/lipis/flag-icon-css
+    - https://github.com/obikag/iso-3166-country-codes
+  {% endcomment %}
 {% endfor %}
 </dl>

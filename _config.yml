@@ -7,7 +7,7 @@
 
 # Site settings
 title: ncag.info
-email: pieter.belmans@uantwerpen.be
+email: pbelmans@math.uni-bonn.de
 description: a website for things related to noncommutative algebraic geometry
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ncag.info" # the base hostname & protocol for your site
