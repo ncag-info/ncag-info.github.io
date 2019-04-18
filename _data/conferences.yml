@@ -1398,3 +1398,11 @@
   country: Russia
   type: conference
   url: http://hms.mirrorsymmetry.ru/
+
+- start: 2019-05-07
+  end: 2019-05-10
+  title: "Interactions between representation theory and homological mirror symmetry"
+  location: Leicester
+  country: United Kingdom
+  type: workshop
+  url: https://sites.google.com/view/interactions-between-represent
