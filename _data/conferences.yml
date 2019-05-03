@@ -1406,3 +1406,11 @@
   country: United Kingdom
   type: workshop
   url: https://sites.google.com/view/interactions-between-represent
+
+- start: 2019-08-26
+  end: 2019-08-30
+  title: "Quantum structures in algebra and geometry"
+  url: https://math.mit.edu/conferences/quantum/
+  location: Boston
+  country: United States
+  type: conference
