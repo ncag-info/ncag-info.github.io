@@ -1415,3 +1415,11 @@
   location: Boston
   country: United States
   type: conference
+
+- start: 2019-10-07
+  end: 2019-10-11
+  title: "Deformations and rigidity in algebra, geometry and analysis"
+  url: https://www.mathematik.uni-wuerzburg.de/schools/2019/deformations-rigidity-algebra-geometry-analysis/home/
+  location: Würzburg
+  country: Germany
+  type: school
