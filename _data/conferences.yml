@@ -1423,3 +1423,11 @@
   location: Würzburg
   country: Germany
   type: school
+
+- start: 2019-09-16
+  end: 2019-09-20
+  title: "Quantum flag manifolds in Prague"
+  url: https://quantumflagsprague.wordpress.com/
+  location: conference
+  country: Czech Republic
+  location: Prague
