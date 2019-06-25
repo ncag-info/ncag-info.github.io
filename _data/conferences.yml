@@ -1431,3 +1431,11 @@
   location: conference
   country: Czech Republic
   location: Prague
+
+- start: 2019-07-28
+  end: 2019-07-28
+  title: Seattle Noncommutative algebra day
+  type: workshop
+  location: Seattle
+  country: United States
+  url: https://sites.math.washington.edu/~zhang/SeattleAlgebraDay2019July/index.html
