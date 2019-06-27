@@ -1439,3 +1439,11 @@
   location: Seattle
   country: United States
   url: https://sites.math.washington.edu/~zhang/SeattleAlgebraDay2019July/index.html
+
+- start: 2019-06-24
+  end: 2019-06-28
+  title: "Interaction between algebraic geometry and QFT"
+  type: workshop
+  location: Moscow
+  country: Russia
+  url: https://mipt.ru/english/events/conference-on-categorical-and-analytic-invariants-in-algebraic-geometry-and-qft
