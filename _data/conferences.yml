@@ -1447,3 +1447,11 @@
   location: Moscow
   country: Russia
   url: https://mipt.ru/english/events/conference-on-categorical-and-analytic-invariants-in-algebraic-geometry-and-qft
+
+- start: 2019-11-11
+  end: 2019-11-15
+  title: "Noncommutative algebraic geometry Shanghai workshop"
+  type: workshop
+  location: Shanghai
+  country: China
+  url: http://www.scms.fudan.edu.cn/Data/View/1285.html
