@@ -1463,3 +1463,11 @@
   location: Kyoto
   country: Japan
   url: http://www.maths.adelaide.edu.au/pedram.hekmati/RIMS2019/
+
+- start: 2019-09-25
+  end: 2019-09-27
+  title: "3CinG Workshop"
+  type: workshop
+  location: Milton Keynes
+  country: United Kingdom
+  url: http://geometry.ma.ic.ac.uk/3CinG/index.php/current-and-future-events/
