@@ -1466,8 +1466,16 @@
 
 - start: 2019-09-25
   end: 2019-09-27
-  title: "3CinG Workshop"
+  title: "Mirror symmetry and Fano varieties II"
   type: workshop
   location: Milton Keynes
   country: United Kingdom
   url: http://geometry.ma.ic.ac.uk/3CinG/index.php/current-and-future-events/
+
+- start: 2019-11-25
+  end: 2019-11-29
+  title: "Categorical and analytic invariants in algebraic geometry VII"
+  type: workshop
+  location: Osaka
+  country: Japan
+  url: https://sites.google.com/view/nov2019osaka/
