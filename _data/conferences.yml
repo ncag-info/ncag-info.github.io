@@ -1479,3 +1479,11 @@
   location: Osaka
   country: Japan
   url: https://sites.google.com/view/nov2019osaka/
+
+- start: 2019-08-26
+  end: 2019-08-30
+  title: "Current developments in geometry"
+  type: school
+  location: Novosibirsk
+  country: Russia
+  url: http://www.math.nsc.ru/conference/ageom/2019/index.htm
