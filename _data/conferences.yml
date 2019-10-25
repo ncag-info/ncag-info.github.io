@@ -1511,3 +1511,11 @@
   type: conference
   location: Regensburg
   country: Germany
+
+- start: 2019-11-13
+  end: 2019-11-14
+  title: "Singularities and derived categories"
+  url: http://alg-geom.group.shef.ac.uk/glen/
+  type: workshop
+  location: Sheffield
+  country: United Kingdom
