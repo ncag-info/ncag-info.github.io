@@ -1519,3 +1519,26 @@
   type: workshop
   location: Sheffield
   country: United Kingdom
+
+- start: 2020-01-27
+  end: 2020-01-31
+  title: "Mirror symmetry and related topics"
+  url: https://schms.math.berkeley.edu/events/miami2020/
+  type: conference
+  location: Miami
+  country: United States
+
+- start: 2020-03-03
+  end: 2020-03-06
+  title: "Mirror symmetry, noncommutative geometry and related topics"
+  location: Boston
+  type: workshop
+  country: United States
+
+- start: 2020-07-20
+  end: 2020-07-22
+  title: "Homological mirror symmetry"
+  type: workshop
+  location: Albena
+  country: Bulgaria
+  url: https://schms.math.berkeley.edu/events/icms-hms2020/
