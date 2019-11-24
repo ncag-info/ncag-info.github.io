@@ -1542,3 +1542,17 @@
   location: Albena
   country: Bulgaria
   url: https://schms.math.berkeley.edu/events/icms-hms2020/
+
+- start: 2020-03-30
+  end: 2020-04-01
+  title: "New perspectives on SYZ mirror symmetry"
+  location: London
+  url: https://sites.google.com/view/imperial-syz
+  country: United Kingdom
+
+- start: 2019-12-16
+  end: 2019-12-20
+  title: "School on Bridgeland stability"
+  location: Warwick
+  country: United Kingdom
+  url: http://homepages.warwick.ac.uk/~masda/bsw
