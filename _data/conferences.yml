@@ -1556,3 +1556,24 @@
   location: Warwick
   country: United Kingdom
   url: http://homepages.warwick.ac.uk/~masda/bsw
+
+- start: 2019-12-06
+  end: 2019-12-08
+  title: "Workshop on stability, moduli spaces and applications"
+  location: Chicago
+  country: United States
+  url: http://homepages.math.uic.edu/~coskun/frg2019.html
+
+- start: 2020-03-27
+  end: 2020-03-29
+  title: "Madison Moduli Weekend"
+  location: Madison
+  country: United States
+  url: https://sites.google.com/wisc.edu/madisonmoduliweekend/home
+
+- start: 2020-07-06
+  end: 2020-07-17
+  title: "Motivic, equivariant and noncommutative homotopy theory"
+  location: Paris
+  country: France
+  url: https://indico.math.cnrs.fr/event/5160/
