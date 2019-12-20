@@ -1577,3 +1577,31 @@
   location: Paris
   country: France
   url: https://indico.math.cnrs.fr/event/5160/
+
+- start: 2020-06-15
+  end: 2020-06-19
+  title: "New perspectives on hyperkähler manifolds"
+  location: Levico Terme
+  country: Italy
+  url: https://salafrancesco.weebly.com/dimas-fest.html
+
+- start: 2020-01-22
+  end: 2020-01-24
+  title: "Explicit algebraic representations and complex holomorphic symplectic manifolds"
+  url: https://events.unibo.it/exarchos
+  location: Ravenna
+  country: Italy
+
+- start: 2020-03-23
+  end: 2020-03-27
+  title: "Complex algebraic geometry and related topics"
+  url: https://sites.google.com/view/fab70/home
+  location: Gargnano
+  country: Italy
+
+- start: 2020-05-25
+  end: 2020-05-29
+  title: "Deformations and higher structures (GAP XVII)"
+  url: http://www.geometryandphysics.org/gapxvii/?i=2
+  location: Vancouver
+  country: Canada
