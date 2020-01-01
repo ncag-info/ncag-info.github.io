@@ -1619,3 +1619,18 @@
   url: https://sites.google.com/view/dcgav2020/home
   location: Mumbai
   country: India
+
+- start: 2020-09-28
+  end: 2020-10-02
+  title: "Witt vectors in algebra and geometry"
+  url: http://www.mathnet.ru/php/conference.phtml?confid=1698&option_lang=eng
+  location: Moscow
+  country: Russia
+
+- start: 2020-05-26
+  end: 2020-05-30
+  title: "Landau-Ginzburg mirror and amplitudes"
+  url: https://www.newton.ac.uk/event/kahw05
+  location: London
+  country: United Kingdom
+
