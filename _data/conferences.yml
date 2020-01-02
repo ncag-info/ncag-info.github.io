@@ -1522,7 +1522,7 @@
 
 - start: 2020-01-27
   end: 2020-01-31
-  title: "Mirror symmetry and related topics"
+  title: "Homological mirror symmetry and topological recursion"
   url: https://schms.math.berkeley.edu/events/miami2020/
   type: conference
   location: Miami
@@ -1530,7 +1530,8 @@
 
 - start: 2020-03-03
   end: 2020-03-06
-  title: "Mirror symmetry, noncommutative geometry and related topics"
+  title: "Mirror symmetry, gauged linear sigma models, matrix factorizations, and related topics"
+  url: https://cmsa.fas.harvard.edu/mirror-symmetry-2020/
   location: Boston
   type: workshop
   country: United States
@@ -1634,3 +1635,9 @@
   location: London
   country: United Kingdom
 
+- start: 2020-05-12
+  end: 2020-05-15
+  title: "Structural aspects of Fukaya categories"
+  url: https://schms.math.berkeley.edu/events/harvard2020/
+  location: Boston
+  country: United States
