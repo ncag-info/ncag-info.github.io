@@ -1641,3 +1641,24 @@
   url: https://schms.math.berkeley.edu/events/harvard2020/
   location: Boston
   country: United States
+
+- start: 2020-04-16
+  end: 2020-04-16
+  title: "Mirror symmetry, degenerations and fibrations"
+  url: https://www.lboro.ac.uk/departments/maths/news-events/conferences-workshops/workshoponmirrorsymmetrydegenerationsandfibrations/
+  location: Loughborough
+  country: United Kingdom
+
+- start: 2020-03-30
+  end: 2020-04-03
+  title: "Perverse schobers and categorical structures in algebraic geometry"
+  url: http://www.cantab.net/users/t.logvinenko/2020-schobers/
+  location: Cardiff
+  country: United Kingdom
+
+- start: 2020-09-16
+  end: 2020-09-18
+  title: "British Algebraic Geometry meeting V"
+  url: https://www.bragmeeting.uk/5th-brag-meeting
+  location: London
+  country: United Kingdom
