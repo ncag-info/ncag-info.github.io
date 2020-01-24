@@ -1662,3 +1662,17 @@
   url: https://www.bragmeeting.uk/5th-brag-meeting
   location: London
   country: United Kingdom
+
+- start: 2020-02-15
+  end: 2020-02-16
+  title: "Derived categories"
+  url: https://sites.google.com/view/amnon-yekutieli-conference/home
+  location: Prague
+  country: Czech Republic
+
+- start: 2020-10-05
+  end: 2020-10-09
+  title: "Symplectic singularities in geometry and representation theory"
+  url: https://indico.math.cnrs.fr/event/5331/
+  location: Paris
+  country: France
