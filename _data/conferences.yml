@@ -1691,3 +1691,11 @@
   location: Bonn
   url: https://www.hcm.uni-bonn.de/events/eventpages/hausdorff-school/hausdoff-school-2020/hyperkaehler2020/
   country: Germany
+
+- start: 2020-09-07
+  end: 2020-09-11
+  title: "A conference in celebration of the 60th Birthday of Bill Crawley-Boevey"
+  url: https://personalpages.manchester.ac.uk/staff/mike.prest/WCB60.html
+  type: conference
+  location: Manchester
+  country: United Kingdom
