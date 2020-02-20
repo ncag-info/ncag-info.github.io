@@ -1699,3 +1699,11 @@
   type: conference
   location: Manchester
   country: United Kingdom
+
+- start: 2020-06-22
+  end: 2020-06-26
+  title: "Non-archimedean geometry techniques in mirror symmetry"
+  url: https://www.math.ku.dk/english/calendar/events/non-archimedean-geometry/
+  type: masterclass
+  location: Copenhagen
+  country: Denmark
