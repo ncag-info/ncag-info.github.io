@@ -1707,3 +1707,27 @@
   type: masterclass
   location: Copenhagen
   country: Denmark
+
+- start: 2020-05-18
+  end: 2020-05-29
+  title: "Generalized Hitchin systems, noncommutative geometry and special functions"
+  url: https://sites.google.com/view/generalizedhitchin
+  type: school
+  location: Tokyo
+  country: Japan
+
+- start: 2020-05-18
+  end: 2020-05-20
+  title: "Young perspective on IHS manifolds"
+  url: https://www.igt.uni-stuttgart.de/ihs2020/
+  type: workshop
+  location: Stuttgart
+  country: Germany
+
+- start: 2020-09-28
+  end: 2020-10-02
+  title: "Derived categories of Fano varieties, hyperkähler varieties and their period maps"
+  url: http://derived.dmif.uniud.it/index.html
+  type: school
+  location: Udine
+  country: Italy
