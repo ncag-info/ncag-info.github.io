@@ -1731,3 +1731,11 @@
   type: school
   location: Udine
   country: Italy
+
+- start: 2020-09-14
+  end: 2020-09-18
+  title: "Summer school on derived and triangulated categories"
+  url: http://reh.math.uni-duesseldorf.de/~internet/Summerschool_GRK2020/Summerschool_index.html
+  type: school
+  location: Wuppertal
+  country: Germany
