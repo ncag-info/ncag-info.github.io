@@ -1739,3 +1739,11 @@
   type: school
   location: Wuppertal
   country: Germany
+
+- start: 2020-06-15
+  end: 2020-06-19
+  title: "School on mirror symmetry and moduli spaces"
+  url: https://www.math.tecnico.ulisboa.pt/~efranco/events/SMSMS_2020/SMSMS.html
+  type: school
+  location: Lissabon
+  country: Portugal
