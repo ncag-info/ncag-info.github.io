@@ -1544,13 +1544,6 @@
   country: Bulgaria
   url: https://schms.math.berkeley.edu/events/icms-hms2020/
 
-- start: 2020-03-30
-  end: 2020-04-01
-  title: "New perspectives on SYZ mirror symmetry"
-  location: London
-  url: https://sites.google.com/view/imperial-syz
-  country: United Kingdom
-
 - start: 2019-12-16
   end: 2019-12-20
   title: "School on Bridgeland stability"
@@ -1564,13 +1557,6 @@
   location: Chicago
   country: United States
   url: http://homepages.math.uic.edu/~coskun/frg2019.html
-
-- start: 2020-03-27
-  end: 2020-03-29
-  title: "Madison Moduli Weekend"
-  location: Madison
-  country: United States
-  url: https://sites.google.com/wisc.edu/madisonmoduliweekend/home
 
 - start: 2020-07-06
   end: 2020-07-17
@@ -1593,26 +1579,12 @@
   location: Ravenna
   country: Italy
 
-- start: 2020-03-23
-  end: 2020-03-27
-  title: "Complex algebraic geometry and related topics"
-  url: https://sites.google.com/view/fab70/home
-  location: Gargnano
-  country: Italy
-
-- start: 2020-05-25
-  end: 2020-05-29
+- start: 2021-05-17
+  end: 2021-05-21
   title: "Deformations and higher structures (GAP XVII)"
   url: http://www.geometryandphysics.org/gapxvii/?i=2
   location: Vancouver
   country: Canada
-
-- start: 2020-03-23
-  end: 2020-03-25
-  title: "Workshop on noncommutative regular algebras"
-  url: https://ryokanda.net/conferences/ncra2020/
-  location: Osaka
-  country: Japan
 
 - start: 2020-02-17
   end: 2020-02-21
@@ -1627,34 +1599,6 @@
   url: http://www.mathnet.ru/php/conference.phtml?confid=1698&option_lang=eng
   location: Moscow
   country: Russia
-
-- start: 2020-05-26
-  end: 2020-05-30
-  title: "Landau-Ginzburg mirror and amplitudes"
-  url: https://www.newton.ac.uk/event/kahw05
-  location: London
-  country: United Kingdom
-
-- start: 2020-05-12
-  end: 2020-05-15
-  title: "Structural aspects of Fukaya categories"
-  url: https://schms.math.berkeley.edu/events/harvard2020/
-  location: Boston
-  country: United States
-
-- start: 2020-04-16
-  end: 2020-04-16
-  title: "Mirror symmetry, degenerations and fibrations"
-  url: https://www.lboro.ac.uk/departments/maths/news-events/conferences-workshops/workshoponmirrorsymmetrydegenerationsandfibrations/
-  location: Loughborough
-  country: United Kingdom
-
-- start: 2020-03-30
-  end: 2020-04-03
-  title: "Perverse schobers and categorical structures in algebraic geometry"
-  url: http://www.cantab.net/users/t.logvinenko/2020-schobers/
-  location: Cardiff
-  country: United Kingdom
 
 - start: 2020-09-16
   end: 2020-09-18
@@ -1707,14 +1651,6 @@
   type: masterclass
   location: Copenhagen
   country: Denmark
-
-- start: 2020-05-18
-  end: 2020-05-29
-  title: "Generalized Hitchin systems, noncommutative geometry and special functions"
-  url: https://sites.google.com/view/generalizedhitchin
-  type: school
-  location: Tokyo
-  country: Japan
 
 - start: 2020-05-18
   end: 2020-05-20
