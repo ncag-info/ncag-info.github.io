@@ -1496,8 +1496,8 @@
   location: Evanston
   country: United States
 
-- start: 2020-07-13
-  end: 2020-07-17
+- start: 2021-07-12
+  end: 2021-07-16
   title: "Recent advances and new directions in the interplay of noncommutative algebra and geometry"
   url: https://sites.google.com/view/ndna2020/home
   type: conference
@@ -1620,13 +1620,6 @@
   url: https://indico.math.cnrs.fr/event/5331/
   location: Paris
   country: France
-
-- start: 2020-07-13
-  end: 2020-07-20
-  title: "VBAC2020: Integral functors, finite spaces and Krichever-Novikov algebras"
-  url: https://sites.google.com/view/vbac2020/vbac-2020
-  location: Salamanca
-  country: Spain
 
 - start: 2020-08-31
   end: 2020-09-04
