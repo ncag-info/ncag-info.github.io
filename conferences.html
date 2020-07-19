@@ -27,14 +27,18 @@ title: Conferences
   {% assign month = new %}
 
   <dd>
-  {% for country in site.data.iso-3166-1 %}
-    {% assign uppercase = conference.country | upcase %}
+  {% if conference.location %}
+    {% for country in site.data.iso-3166-1 %}
+      {% assign uppercase = conference.country | upcase %}
 
-    {% if country["COUNTRY NAME"] == uppercase %}
-      <span class="flag-icon flag-icon-{{ country["ALPHA2"] | downcase }}"></span>
-    {% endif %}
-  {% endfor %}
-  {{ conference.location }}, {{ conference.country }}
+      {% if country["COUNTRY NAME"] == uppercase %}
+        <span class="flag-icon flag-icon-{{ country["ALPHA2"] | downcase }}"></span>
+      {% endif %}
+    {% endfor %}
+    {{ conference.location }}, {{ conference.country }}
+  {% else %}
+    <strong>online</strong>
+  {% endif %}
 
   {% comment %}
     flags are built using:

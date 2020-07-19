@@ -1536,8 +1536,8 @@
   type: workshop
   country: United States
 
-- start: 2020-07-20
-  end: 2020-07-22
+- start: 2021-07-12
+  end: 2021-07-15
   title: "Homological mirror symmetry"
   type: workshop
   location: Albena
@@ -1565,8 +1565,8 @@
   country: France
   url: https://indico.math.cnrs.fr/event/5160/
 
-- start: 2020-06-15
-  end: 2020-06-19
+- start: 2021-06-14
+  end: 2021-06-18
   title: "New perspectives on hyperkähler manifolds"
   location: Levico Terme
   country: Italy
@@ -1600,13 +1600,6 @@
   location: Moscow
   country: Russia
 
-- start: 2020-09-16
-  end: 2020-09-18
-  title: "British Algebraic Geometry meeting V"
-  url: https://www.bragmeeting.uk/5th-brag-meeting
-  location: London
-  country: United Kingdom
-
 - start: 2020-02-15
   end: 2020-02-16
   title: "Derived categories"
@@ -1614,44 +1607,13 @@
   location: Prague
   country: Czech Republic
 
-- start: 2020-10-05
-  end: 2020-10-09
-  title: "Symplectic singularities in geometry and representation theory"
-  url: https://indico.math.cnrs.fr/event/5331/
-  location: Paris
-  country: France
-
-- start: 2020-08-31
-  end: 2020-09-04
-  title: "Hyperkähler geometry"
-  type: school
-  location: Bonn
-  url: https://www.hcm.uni-bonn.de/events/eventpages/hausdorff-school/hausdoff-school-2020/hyperkaehler2020/
-  country: Germany
-
-- start: 2020-09-07
-  end: 2020-09-11
+- start: 2021-09-06
+  end: 2021-09-10
   title: "A conference in celebration of the 60th Birthday of Bill Crawley-Boevey"
   url: https://personalpages.manchester.ac.uk/staff/mike.prest/WCB60.html
   type: conference
   location: Manchester
   country: United Kingdom
-
-- start: 2020-06-22
-  end: 2020-06-26
-  title: "Non-archimedean geometry techniques in mirror symmetry"
-  url: https://www.math.ku.dk/english/calendar/events/non-archimedean-geometry/
-  type: masterclass
-  location: Copenhagen
-  country: Denmark
-
-- start: 2020-05-18
-  end: 2020-05-20
-  title: "Young perspective on IHS manifolds"
-  url: https://www.igt.uni-stuttgart.de/ihs2020/
-  type: workshop
-  location: Stuttgart
-  country: Germany
 
 - start: 2020-09-28
   end: 2020-10-02
@@ -1661,26 +1623,42 @@
   location: Udine
   country: Italy
 
-- start: 2020-09-14
-  end: 2020-09-18
-  title: "Summer school on derived and triangulated categories"
-  url: http://reh.math.uni-duesseldorf.de/~internet/Summerschool_GRK2020/Summerschool_index.html
-  type: school
-  location: Wuppertal
-  country: Germany
-
-- start: 2020-06-15
-  end: 2020-06-19
+- start: 2021-06-28
+  end: 2021-07-02
   title: "School on mirror symmetry and moduli spaces"
   url: https://www.math.tecnico.ulisboa.pt/~efranco/events/SMSMS_2020/SMSMS.html
   type: school
   location: Lissabon
   country: Portugal
 
-- start: 2020-06-28
-  end: 2020-07-03
+- start: 2021-05-31
+  end: 2021-06-04
   title: "Braids, mutations and twists in algebra and geometry"
   url: https://www.math.uu.se/research/bmt20/
   type: workshop
   location: Uppsala
   country: Sweden
+
+- start: 2021-05-16
+  end: 2021-05-22
+  title: "Complex algebraic geometry and related topics"
+  url: https://sites.google.com/view/fab70/home
+  location: Gargnano
+  country: Italy
+
+- start: 2020-07-17
+  end: 2020-09-14
+  title: "The McKay correspondence, mutation and related topics"
+  url: https://indico.ipmu.jp/event/314/overview
+
+- start: 2021-09-20
+  end: 2021-09-24
+  title: "Noncommutative shapes: a conference in honour of Michel Van den Bergh"
+  url: https://nc-shapes.info
+  location: Antwerp
+  country: Belgium
+
+- start: 2020-09-07
+  end: 2020-09-11
+  title: "COW/EmSG/GLEN joint summer school"
+  url: http://cow.alggeo.xyz/summerschool2020.html

@@ -1,9 +1,3 @@
-- start: 2020-03-23
-  end: 2020-03-27
-  title: "Complex algebraic geometry and related topics"
-  url: https://sites.google.com/view/fab70/home
-  location: Gargnano
-  country: Italy
 
 - start: 2020-03-23
   end: 2020-03-25
@@ -68,3 +62,41 @@
   url: https://sites.google.com/view/vbac2020/vbac-2020
   location: Salamanca
   country: Spain
+
+- start: 2020-05-18
+  end: 2020-05-20
+  title: "Young perspective on IHS manifolds"
+  url: https://www.igt.uni-stuttgart.de/ihs2020/
+  type: workshop
+  location: Stuttgart
+  country: Germany
+
+- start: 2020-06-22
+  end: 2020-06-26
+  title: "Non-archimedean geometry techniques in mirror symmetry"
+  url: https://www.math.ku.dk/english/calendar/events/non-archimedean-geometry/
+  type: masterclass
+  location: Copenhagen
+  country: Denmark
+
+- start: 2020-09-14
+  end: 2020-09-18
+  title: "Summer school on derived and triangulated categories"
+  url: http://reh.math.uni-duesseldorf.de/~internet/Summerschool_GRK2020/Summerschool_index.html
+  type: school
+  location: Wuppertal
+  country: Germany
+
+- start: 2020-09-16
+  end: 2020-09-18
+  title: "British Algebraic Geometry meeting V"
+  url: https://www.bragmeeting.uk/5th-brag-meeting
+  location: London
+  country: United Kingdom
+
+- start: 2020-10-05
+  end: 2020-10-09
+  title: "Symplectic singularities in geometry and representation theory"
+  url: https://indico.math.cnrs.fr/event/5331/
+  location: Paris
+  country: France
