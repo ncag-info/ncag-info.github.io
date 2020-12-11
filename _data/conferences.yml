@@ -1376,14 +1376,6 @@
   type: workshop
   url: https://www.birs.ca/events/2020/5-day-workshops/20w5176
 
-- start: 2020-10-11
-  end: 2020-10-16
-  title: "Poisson geometry and Artin-Schelter regular algebras"
-  location: Hangzhou
-  country: China
-  type: workshop
-  url: https://www.birs.ca/events/2020/5-day-workshops/20w5072
-
 - start: 2019-07-29
   end: 2019-08-02
   title: "Moduli and stability conditions"
@@ -1615,8 +1607,8 @@
   location: Manchester
   country: United Kingdom
 
-- start: 2020-09-28
-  end: 2020-10-02
+- start: 2021-11-08
+  end: 2021-11-13
   title: "Derived categories of Fano varieties, hyperkähler varieties and their period maps"
   url: http://derived.dmif.uniud.it/index.html
   type: school
@@ -1662,3 +1654,57 @@
   end: 2020-09-11
   title: "COW/EmSG/GLEN joint summer school"
   url: http://cow.alggeo.xyz/summerschool2020.html
+
+- start: 2020-11-09
+  end: 2020-11-14
+  type: workshop
+  title: "Representations of algebras (ICRA)"
+  url: https://www.icra2020.info
+
+- start: 2020-11-16
+  end: 2020-11-21
+  type: conference
+  title: "Representations of algebras (ICRA)"
+  url: https://www.icra2020.info
+
+- start: 2020-12-07
+  end: 2020-12-11
+  title: "Mirror symmetry and related topics"
+  url: https://www.math.kyoto-u.ac.jp/~iritani/mirrorsymmetry2020/mirrorsymmetry2020
+  type: workshop
+
+- start: 2020-12-14
+  end: 2020-12-18
+  title: "Categories and birational geometry"
+  url: http://www.mathnet.ru/php/conference.phtml?confid=1835&option_lang=eng
+  type: conference
+
+- start: 2020-12-07
+  end: 2020-12-08
+  title: "Derived categories and (non)commutative algebraic geometry"
+  url: https://www2.cms.math.ca/Events/winter20/sessions_scientific#dca
+  type: workshop
+
+- start: 2020-09-29
+  end: 2020-10-02
+  title: "Floer-theoretic and algebro-geometric aspects of SYZ mirror symmetry"
+  url: https://schms.math.berkeley.edu/events/syz2020/
+  type: workshop
+
+- start: 2020-12-04
+  end: 2020-12-05
+  title: "Current advances in mirror symmetry"
+  url: https://schms.math.berkeley.edu/events/schms2020/
+  type: workshop
+
+- start: 2020-12-07
+  end: 2020-12-10
+  title: "Moduli spaces and stability"
+  url: http://homepages.math.uic.edu/~coskun/frg2020.html
+  type: workshop
+
+- start: 2020-12-14
+  end: 2020-12-15
+  title: "Moduli of sheaves on three- and fourfolds"
+  type: workshop
+
