@@ -1713,3 +1713,15 @@
   title: "Noncommutative geometry conference"
   type: workshop
   url: https://ms.hse.ru/en/Noncomgeometry
+
+- start: 2020-12-22
+  end: 2020-12-22
+  title: "One day conference in memory of V.A. Iskovskikh"
+  url: http://www.mi-ras.ru/~prokhoro/conf/isk20/
+  type: workshop
+
+- start: 2021-07-05
+  end: 2021-07-09
+  title: "Derived categories and rationality"
+  url: https://www.ams.org/meetings/international/2269_program_ss16.html
+  type: workshop
