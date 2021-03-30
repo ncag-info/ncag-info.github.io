@@ -1725,3 +1725,15 @@
   title: "Derived categories and rationality"
   url: https://www.ams.org/meetings/international/2269_program_ss16.html
   type: workshop
+
+- start: 2022-09-25
+  end: 2022-09-30
+  title: "Noncommutative geometry and noncommutative invariant theory"
+  url: http://www.birs.ca/events/2022/5-day-workshops/22w5084
+  type: workshop
+
+- start: 2022-07-03
+  end: 2022-07-08
+  title: "Derived categories, arithmetic and reconstruction in algebraic geometry"
+  url: http://www.birs.ca/events/2022/5-day-workshops/22w5108
+  type: workshop
