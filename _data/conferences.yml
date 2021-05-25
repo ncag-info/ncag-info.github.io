@@ -1737,3 +1737,27 @@
   title: "Derived categories, arithmetic and reconstruction in algebraic geometry"
   url: http://www.birs.ca/events/2022/5-day-workshops/22w5108
   type: workshop
+
+- start: 2021-05-26
+  end: 2021-05-28
+  title: "From Fano varieties to hyperKähler manifolds: geometry and derived categories (kick-off meeting)"
+  url: https://sites.google.com/view/fanohk/home?authuser=0
+  type: workshop
+  location: Versailles
+  country: France
+
+- start: 2021-05-17
+  end: 2021-05-18
+  title: "Conference Shokurov 70+1"
+  url: http://www.mi-ras.ru/~prokhoro/conf/shok21/index.html
+  type: workshop
+  location: Moscow
+  country: Russia
+
+- start: 2021-10-05
+  end: 2021-10-08
+  title: "Newton-Okounkov bodies and Fanosearch"
+  url: https://sites.google.com/unitn.it/nob-fanosearch/home
+  type: workshop
+  country: Italy
+  location: Trentino
