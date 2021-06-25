@@ -1488,8 +1488,8 @@
   location: Evanston
   country: United States
 
-- start: 2021-07-12
-  end: 2021-07-16
+- start: 2022-06-20
+  end: 2022-06-24
   title: "Recent advances and new directions in the interplay of noncommutative algebra and geometry"
   url: https://sites.google.com/view/ndna2020/home
   type: conference
@@ -1599,7 +1599,7 @@
   location: Prague
   country: Czech Republic
 
-- start: 2021-09-06
+- start: 2021-09-01
   end: 2021-09-10
   title: "A conference in celebration of the 60th Birthday of Bill Crawley-Boevey"
   url: https://personalpages.manchester.ac.uk/staff/mike.prest/WCB60.html
@@ -1614,14 +1614,6 @@
   type: school
   location: Udine
   country: Italy
-
-- start: 2021-06-28
-  end: 2021-07-02
-  title: "School on mirror symmetry and moduli spaces"
-  url: https://www.math.tecnico.ulisboa.pt/~efranco/events/SMSMS_2020/SMSMS.html
-  type: school
-  location: Lissabon
-  country: Portugal
 
 - start: 2021-05-31
   end: 2021-06-04
@@ -1643,9 +1635,16 @@
   title: "The McKay correspondence, mutation and related topics"
   url: https://indico.ipmu.jp/event/314/overview
 
-- start: 2021-09-20
-  end: 2021-09-24
+- start: 2022-09-19
+  end: 2022-09-23
   title: "Noncommutative shapes: a conference in honour of Michel Van den Bergh"
+  url: https://nc-shapes.info
+  location: Antwerp
+  country: Belgium
+
+- start: 2021-09-20
+  end: 2021-09-20
+  title: "Noncommutative shapes"
   url: https://nc-shapes.info
   location: Antwerp
   country: Belgium
@@ -1731,12 +1730,16 @@
   title: "Noncommutative geometry and noncommutative invariant theory"
   url: http://www.birs.ca/events/2022/5-day-workshops/22w5084
   type: workshop
+  location: Banff
+  country: Canada
 
 - start: 2022-07-03
   end: 2022-07-08
   title: "Derived categories, arithmetic and reconstruction in algebraic geometry"
   url: http://www.birs.ca/events/2022/5-day-workshops/22w5108
   type: workshop
+  location: Banff
+  country: Canada
 
 - start: 2021-05-26
   end: 2021-05-28
@@ -1776,3 +1779,66 @@
   url: https://bebtoen.wixsite.com/nedag/cats-60
   country: France
   location: Toulouse
+
+- start: 2021-09-13
+  end: 2021-09-17
+  title: "Summer school on derived and triangulated categories"
+  url: http://reh.math.uni-duesseldorf.de/~grk2240/Summerschool_GRK2021/Summerschool_index.html
+  country: Germany
+  location: Wüppertal
+
+- start: 2021-09-06
+  end: 2021-09-10
+  title: "Hyperkähler geometry"
+  url: https://www.hcm.uni-bonn.de/hyperkaehler2021/
+  country: Germany
+  location: Bonn
+
+- start: 2022-09-26
+  end: 2022-09-30
+  title: "Representation theory and triangulated categories"
+  url: https://www.math.uni-bielefeld.de/birep/meetings/rttc2022/index.php
+  country: Germany
+  location: Bielefeld
+
+- start: 2022-04-03
+  end: 2022-04-08
+  title: "Women in noncommutative algebra and representation theory 3"
+  url: http://www.birs.ca/events/2022/5-day-workshops/22w5033
+  location: Banff
+  country: Canada
+
+- start: 2022-09-25
+  end: 2022-09-30
+  title: "Noncommutative geometry and noncommutative invariant theory"
+  url: http://www.birs.ca/events/2022/5-day-workshops/22w5033
+  location: Banff
+  country: Canada
+
+- start: 2022-09-18
+  end: 2022-09-23
+  title: "Moduli, motives and bundles---New trends in algebraic geometry"
+  url: http://www.birs.ca/events/2022/5-day-workshops/22w5187
+  location: Oaxaca
+  country: Mexico
+
+- start: 2022-09-25
+  end: 2022-09-30
+  title: "Poisson geometry and Artin-Schelter regular algebras"
+  url: http://www.birs.ca/events/2022/5-day-workshops/22w5194
+  location: Hangzhou
+  country: China
+
+- start: 2022-05-01
+  end: 2022-05-07
+  title: "Interactions between algebraic geometry and noncommutative algebra"
+  url: https://www.mfo.de/occasion/2218/www_view
+  location: Oberwolfach
+  country: Germany
+
+- start: 2022-07-10
+  end: 2022-07-16
+  title: "Algebraic geometry: moduli spaces, birational geometry and derived aspects"
+  url: https://www.mfo.de/occasion/2228/www_view
+  location: Oberwolfach
+  country: Germany
