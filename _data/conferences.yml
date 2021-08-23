@@ -1852,3 +1852,31 @@
   end: 2021-08-27
   title: "Summer school on Algebraic geometry in high-energy physics"
   url: https://math.usask.ca/~rayan/AG-HEP2/index.html
+
+- start: 2021-12-23
+  end: 2021-12-23
+  title: "Conference dedicated to the memory of V.A. Iskovskikh"
+  url: http://www.mathnet.ru/php/conference.phtml?confid=1879&option_lang=eng
+  location: Moscow
+  country: Russia
+
+- start: 2021-12-01
+  end: 2021-12-31
+  title: "Categorical and analytic invariants in algebraic geometry VIII"
+  url: http://www.mathnet.ru/php/conference.phtml?confid=1869&option_lang=eng
+  location: Moscow
+  country: Russia
+
+- start: 2021-10-28
+  end: 2021-10-28
+  title: "Memorial conference dedicated to the memory of Andrei Nikolaevich Tyurin"
+  url: http://www.mathnet.ru/php/conference.phtml?confid=1878&option_lang=eng
+  location: Moscow
+  country: Russia
+
+- start: 2021-10-01
+  end: 2021-10-31
+  title: "Witt vectors in algebra and geometry"
+  url: http://www.mathnet.ru/php/conference.phtml?confid=1698&option_lang=eng
+  location: Moscow
+  country: Russia
