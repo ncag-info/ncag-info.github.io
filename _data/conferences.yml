@@ -1880,3 +1880,10 @@
   url: http://www.mathnet.ru/php/conference.phtml?confid=1698&option_lang=eng
   location: Moscow
   country: Russia
+
+- start: 2022-07-25
+  end: 2022-07-29
+  title: "Moduli spaces and vector bundles: new trends"
+  url: http://vbac.wikidot.com/vbac2022
+  location: Warwick
+  country: United Kingdom
