@@ -1893,3 +1893,31 @@
   title: "Moduli spaces and stability conditions"
   location: Trento
   country: Italy
+
+- start: 2021-12-15
+  end: 2021-12-17
+  title: "Conference in honour of Alexey Bondal's 60th birthday"
+  url: https://homepage.mi-ras.ru/~akuznet/bondal-60/conf.html
+  location: Moscow
+  country: Russia
+
+- start: 2021-12-13
+  end: 2021-12-15
+  title: "Online workshop on mirror symmetry and related topics"
+  url: https://www.math.kyoto-u.ac.jp/~iritani/mirrorsymmetry2021/Workshop2021.html
+  location: Kyoto
+  country: Japan
+
+- start: 2021-11-29
+  end: 2021-12-02
+  title: "Special geometry, mirror symmetry and integrable systems"
+  url: http://www.f.waseda.jp/martin/conf/2021RIMS-W
+  location: Tokio
+  country: Japan
+
+- start: 2021-11-17
+  end: 2021-11-19
+  title: "Nonlinear waves and Frobenius structures in geometry and physics"
+  url: http://www.mathnet.ru/php/conference.phtml?confid=1954&option_lang=eng
+  location: Moscow
+  country: Russia
