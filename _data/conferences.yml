@@ -1921,3 +1921,35 @@
   url: http://www.mathnet.ru/php/conference.phtml?confid=1954&option_lang=eng
   location: Moscow
   country: Russia
+
+- start: 2022-06-05
+  end: 2022-06-10
+  title: "Moduli spaces and stability conditions"
+  location: Trento
+  country: Italy
+
+- start: 2022-06-13
+  end: 2022-06-17
+  title: "New perspectives on hyperkähler manifolds"
+  url: https://indico.cs.dm.unipi.it/event/13/
+  location: Trento
+  country: Italy
+
+- start: 2022-04-29
+  end: 2022-05-01
+  title: "Derived categories and moduli spaces"
+  url: https://sites.google.com/view/derivedfrg/events/cornell-2022
+  location: Ithaca
+  country: United States
+
+- start: 2022-07-30
+  end: 2022-08-05
+  title: "Derived categories, moduli spaces and hyperkähler varieties"
+  url: https://sites.google.com/view/derivedfrg/events/michigan-2022
+  location: Ann Arbor
+  country: United States
+  end: 2022-05-01
+  title: "Derived categories and moduli spaces"
+  url: https://sites.google.com/view/derivedfrg/events/cornell-2022
+  location: Ithaca
+  country: United States
