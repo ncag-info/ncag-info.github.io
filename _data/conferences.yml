@@ -1888,12 +1888,6 @@
   location: Oslo
   country: Norway
 
-- start: 2022-06-05
-  end: 2022-06-10
-  title: "Moduli spaces and stability conditions"
-  location: Trento
-  country: Italy
-
 - start: 2021-12-15
   end: 2021-12-17
   title: "Conference in honour of Alexey Bondal's 60th birthday"
@@ -1927,6 +1921,7 @@
   title: "Moduli spaces and stability conditions"
   location: Trento
   country: Italy
+  url: https://gecogedi.dimai.unifi.it/event/1115/
 
 - start: 2022-06-13
   end: 2022-06-17
@@ -1948,8 +1943,10 @@
   url: https://sites.google.com/view/derivedfrg/events/michigan-2022
   location: Ann Arbor
   country: United States
-  end: 2022-05-01
-  title: "Derived categories and moduli spaces"
-  url: https://sites.google.com/view/derivedfrg/events/cornell-2022
-  location: Ithaca
-  country: United States
+
+- start: 2022-06-27
+  end: 2022-07-05
+  title: "ICM 2022 satellite conference on algebraic geometry"
+  url: https://ag2022.mi-ras.ru/
+  location: Moscow
+  country: Russia
