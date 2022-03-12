@@ -1992,3 +1992,17 @@
   url: http://www.riess-web.com/math/JES/
   location: Bologna
   country: Italy
+
+- start: 2022-05-28
+  end: 2022-06-01
+  title: "Symplectic versus algebraic geometry"
+  url: https://warwick.ac.uk/fac/sci/maths/research/events/events2021-22/3cing_symplecticversusalgebraicgeometry/
+  location: Warwick
+  country: United Kingdom
+
+- start: 2022-06-28
+  end: 2022-07-02
+  title: "Recent advances in classical algebraic geometry"
+  url: http://racag22.c.matinf.uj.edu.pl/index.html
+  location: Krakow
+  country: Poland
