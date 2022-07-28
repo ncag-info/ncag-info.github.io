@@ -2060,7 +2060,7 @@
   end: 2022-09-09
   title: "BPS states, mirror symmetry and exact WKB II"
   url: http://alg-geom.group.shef.ac.uk/bps2022/
-  location: Sheffied
+  location: Sheffield
   country: United Kingdom
 
 - start: 2022-06-21
@@ -2097,3 +2097,10 @@
   url: https://people.maths.ox.ac.uk/~szendroi/22workshop.html
   location: Oxford
   country: United Kingdom
+
+- start: 2022-09-19
+  end: 2022-09-23
+  title: "Categorical and enumerative aspects of mirror symmetry"
+  url: http://events.kias.re.kr/h/SEP22/?pageNo=4742
+  location: Seoul
+  country: South Korea
