@@ -2104,3 +2104,17 @@
   url: http://events.kias.re.kr/h/SEP22/?pageNo=4742
   location: Seoul
   country: South Korea
+
+- start: 2022-08-08
+  end: 2022-08-12
+  title: "Calabi-Yau manifolds and mirror symmetry: past, present, and future"
+  url: https://sites.google.com/view/cyms2022
+  location: Tokyo
+  country: Japan
+
+- start: 2022-09-19
+  end: 2022-09-23
+  title: "Periods in mirror symmetry"
+  url: https://www.icms.org.uk/workshops/2022/periods-mirror-symmetry
+  location: Edinburgh
+  country: United Kingdom
