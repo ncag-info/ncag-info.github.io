@@ -2125,3 +2125,65 @@
   url: https://publish.illinois.edu/facets-ncg-conf2022/
   location: Champaign
   country: United States
+
+- start: 2023-01-09
+  end: 2023-01-11
+  title: "Fano varieties and hyperkähler varieties"
+  url: https://irma.math.unistra.fr/~lfu/Activities/workshop_ANR_FanoHK.html
+  location: Strasbourg
+  country: France
+
+- start: 2023-02-12
+  end: 2023-02-18
+  title: "Representation theory of quivers and finite-dimensional algebras"
+  url: https://www.mfo.de/occasion/2307/www_view
+  location: Oberwolfach
+  country: Germany
+
+- start: 2023-09-10
+  end: 2023-09-15
+  title: "Silting in representation theory, singularities, and non-commutative geometry"
+  location: Oaxaca
+  url: https://www.birs.ca/events/2023/5-day-workshops/23w5047
+  country: Mexico
+
+- start: 2023-09-03
+  end: 2023-09-08
+  title: "Geometry of hyperkähler varieties"
+  location: Hangzhou
+  country: China
+  url: https://www.birs.ca/events/2023/5-day-workshops/23w5100
+
+- start: 2023-10-16
+  end: 2023-10-20
+  title: "Categories and stacks in algebraic geometry and algebraic topology"
+  location: Marseille
+  country: France
+
+- start: 2023-04-17
+  end: 2023-04-21
+  title: "Higher structures in geometry and mathematical physics"
+  url: https://conferences.cirm-math.fr/2697.html
+  location: Marseille
+  country: France
+
+- start: 2023-05-22
+  end: 2023-05-26
+  url: https://indico.math.cnrs.fr/event/7882/
+  title: "Homotopy algebras and higher structures"
+  location: Paris
+  country: France
+
+- start: 2023-06-12
+  end: 2023-06-16
+  url: https://indico.math.cnrs.fr/event/7883/
+  title: "Higher structures in enumerative geometry"
+  location: Paris
+  country: France
+
+- start: 2023-07-03
+  end: 2023-07-07
+  url: https://indico.math.cnrs.fr/event/7885/
+  title: "dg-manifolds in geometry and physics"
+  location: Paris
+  country: France
