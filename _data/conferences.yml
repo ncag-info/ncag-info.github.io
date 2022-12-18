@@ -2229,3 +2229,24 @@
   location: Nantes
   url: https://sites.google.com/view/moduli-in-nantes/home
   country: France
+
+- start: 2024-04-14
+  end: 2024-04-19
+  title: "Hochschild (co)homology and applications"
+  location: Oberwolfach
+  url: https://www.mfo.de/occasion/2416/www_view
+  country: Germany
+
+- start: 2024-07-07
+  end: 2024-07-12
+  title: "Algebraic geometry: wall crossing and moduli spaces, varieties and derived categories"
+  location: Oberwolfach
+  country: Germany
+  url: https://www.mfo.de/occasion/2428/www_view
+
+- start: 2024-09-17
+  end: 2024-09-23
+  title: "Tensor triangular geometry and interactions"
+  location: Oberwolfach
+  country: Germany
+  url: https://www.mfo.de/occasion/2338a/www_view
