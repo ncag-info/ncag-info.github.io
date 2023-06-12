@@ -2356,3 +2356,17 @@
   url: https://sites.google.com/view/workshopepfl/home
   location: Lausanne
   country: Switzerland
+
+- start: 2023-10-30
+  end: 2023-11-03
+  title: "Fano varieties, their geometry and moduli"
+  url: http://events.kias.re.kr/h/FVGM/?pageNo=5054
+  location: Seoul
+  country: South Korea
+
+- start: 2023-06-12
+  end: 2023-06-16
+  title: "Hodge theory, mirror symmetry and physics of Calabi-Yau moduli"
+  url: https://web.mathi.uni-heidelberg.de/cymod23
+  location: Heidelberg
+  country: Germany
