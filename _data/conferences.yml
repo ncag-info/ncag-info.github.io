@@ -2370,3 +2370,24 @@
   url: https://web.mathi.uni-heidelberg.de/cymod23
   location: Heidelberg
   country: Germany
+
+- start: 2023-03-22
+  end: 2023-03-24
+  title: "Higher categorical methods in algebra and geometry"
+  url: https://www.math.uni-hamburg.de/home/dyckerhoff/hcm23/
+  location: Hamburg
+  country: Germany
+
+- start: 2023-12-11
+  end: 2023-12-15
+  title: "Stability and Enumerative Geometry Workshop"
+  location: Oslo
+  country: Norway
+  url: https://www.mn.uio.no/math/english/research/groups/algebra/events/conferences/stew/index.html
+
+- start: 2024-01-22
+  end: 2024-01-26
+  title: "Fano and hyperkähler varieties in Genova"
+  location: Genova
+  country: Italy
+  url: https://sites.google.com/view/fanohkingenova/
