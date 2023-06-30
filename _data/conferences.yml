@@ -2391,3 +2391,24 @@
   location: Genova
   country: Italy
   url: https://sites.google.com/view/fanohkingenova/
+
+- start: 2023-11-06
+  end: 2023-11-11
+  title: "Workshop on derived categories"
+  location: Bonn
+  country: Germany
+  url: https://www.him.uni-bonn.de/ws-group-derived-categories/
+
+- start: 2023-11-20
+  end: 2023-11-24
+  title: "Workshop on birational geometry"
+  location: Bonn
+  country: Germany
+  url: https://www.him.uni-bonn.de/programs/future-programs/future-junior-trimester-programs/jtp-algebraic-geometry/ws-group-birational-geometry/
+
+- start: 2023-09-11
+  end: 2023-09-15
+  title: "K3 surfaces, hyperkähler manifolds, and cubic fourfolds"
+  url: https://www.him.uni-bonn.de/school-hyperk3s/
+  location: Bonn
+  country: Germany
