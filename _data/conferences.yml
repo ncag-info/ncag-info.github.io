@@ -2412,3 +2412,24 @@
   url: https://www.him.uni-bonn.de/school-hyperk3s/
   location: Bonn
   country: Germany
+
+- start: 2024-02-01
+  end: 2024-02-02
+  title: "Connections Workshop: Noncommutative Algebraic Geometry"
+  url: https://www.msri.org/workshops/1054
+  location: Berkeley
+  country: United States
+
+- start: 2024-02-05
+  end: 2024-02-09
+  title: "Introductory Workshop: Noncommutative Algebraic Geometry"
+  url: https://www.msri.org/workshops/1055
+  location: Berkeley
+  country: United States
+
+- start: 2024-02-05
+  end: 2024-02-09
+  url: https://www.msri.org/workshops/1075
+  title: "Recent Developments in Noncommutative Algebraic Geometry"
+  location: Berkeley
+  country: United States
