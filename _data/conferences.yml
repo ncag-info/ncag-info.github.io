@@ -2447,3 +2447,10 @@
   title: "Pre-Calabi-Yau day"
   location: Grenoble
   country: France
+
+- start: 2023-10-20
+  end: 2023-10-22
+  url: https://antieau.github.io/workshops/202303-frg.html
+  title: "Brauer groups and derived categories"
+  location: Chicago
+  country: United States
