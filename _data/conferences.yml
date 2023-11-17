@@ -2496,3 +2496,24 @@
   url: https://amosturchet.github.io/alggeo23.html
   location: Rome
   country: Italy
+
+- start: 2023-12-01
+  end: 2023-12-02
+  title: "Algebras and Representation Theory in Germany 3"
+  url: https://math.uni-paderborn.de/en/sfb-trr-358/artig-3
+  location: Paderborn
+  country: Germany
+
+- start: 2023-06-23
+  end: 2023-06-24
+  title: "Algebras and Representation Theory in Germany 2"
+  url: https://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/activities/artig2.html
+  location: Stuttgart
+  country: Germany
+
+- start: 2023-01-27
+  end: 2023-01-28
+  title: "Algebras and Representation Theory in Germany 1"
+  url: https://sites.google.com/view/rep-theory-in-germany/home
+  location: Cologne
+  country: Germany
