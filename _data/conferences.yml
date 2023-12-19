@@ -2245,8 +2245,8 @@
   country: Germany
   url: https://www.mfo.de/occasion/2428/www_view
 
-- start: 2024-09-17
-  end: 2024-09-23
+- start: 2023-09-17
+  end: 2023-09-23
   title: "Tensor triangular geometry and interactions"
   location: Oberwolfach
   country: Germany
@@ -2524,3 +2524,31 @@
   url: https://sites.northwestern.edu/gonefishing24/
   location: Evanston
   country: United States
+
+- start: 2023-12-18
+  end: 2023-12-22
+  title: "Workshop on mirror symmetry and related topics"
+  url: https://www.math.kyoto-u.ac.jp/~iritani/mirrorsymmetry2023/Workshop2023.html
+  location: Kyoto
+  country: Japan
+
+- start: 2023-12-18
+  end: 2023-12-22
+  title: "McKay correspondence, tilting theory and related topics"
+  url: https://indico.ipmu.jp/event/430/
+  location: Kashiwa
+  country: Japan
+
+- start: 2024-09-22
+  end: 2024-09-27
+  title: "Algebraic Geometry & Noncommutative Projective Varieties"
+  url: https://www.mfo.de/occasion/2439b/www_view
+  location: Oberwolfach
+  country: Germany
+
+- start: 2024-09-22
+  end: 2024-09-27
+  title: "Algebraic Geometry & Noncommutative Projective Varieties"
+  url: https://www.mfo.de/occasion/2439b/www_view
+  location: Kyoto
+  country: Japan
