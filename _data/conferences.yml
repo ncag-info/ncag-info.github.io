@@ -2693,3 +2693,45 @@
   url: https://sites.google.com/view/geometrymeetsphysics/home
   location: Zeist
   country: Netherlands
+
+- start: 2025-03-03
+  end: 2025-03-07
+  title: "Enumerative geometry, representation theory, and physics"
+  url: https://indico.ipmu.jp/event/427/
+  location: Tokyo
+  country: Japan
+
+- start: 2025-02-14
+  end: 2025-02-15
+  title: "Algebras and representation theory in Germany"
+  url: https://math-events.uni-bonn.de/event/43/overview
+  location: Bonn
+  country: Germany
+
+- start: 2025-05-26
+  end: 2025-05-30
+  title: "Invariant theory: from classics to modern developments"
+  url: https://sites.google.com/view/time-2025-invariant-theory
+  location: Tromsø
+  country: Norway
+
+- start: 2025-09-09
+  end: 2025-09-20
+  title: "Perspectives in noncommutative algebras: Leavitt path algebras, Hochschild (co)homology and related topics"
+  location: Hefei
+  country: China
+  url: https://cimpa2025hefei.ahu.edu.cn/
+
+- start: 2025-09-01
+  end: 2025-09-09
+  title: "Advances in representation theory of algebras"
+  url: https://sites.google.com/view/arta-x-cologne
+  location: Cologne
+  country: Germany
+
+- start: 2025-06-23
+  end: 2025-07-04
+  title: "Enumerative geometry and geometric representation theory"
+  url: https://events.dm.unipi.it/event/200/
+  location: Pisa
+  country: Italy
