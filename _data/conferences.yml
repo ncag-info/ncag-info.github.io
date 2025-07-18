@@ -2896,3 +2896,10 @@
   url: https://indico.math.cnrs.fr/event/14503/
   location: Toulouse
   country: France
+
+- start: 2025-12-16
+  end: 2025-12-19
+  title: Spectrums in representation theory of algebras and related topics
+  url: https://pabloocal.github.io/SRTART2025/
+  location: Osaka
+  country: Japan
