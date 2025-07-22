@@ -2896,3 +2896,10 @@
   url: https://indico.math.cnrs.fr/event/14503/
   location: Toulouse
   country: France
+
+- start: 2025-09-01
+  end: 2025-09-03
+  title: Semiorthogonal decompositions for representations of algebraic groups
+  url: https://www.math.uni-bielefeld.de/birep/meetings/semiorth2025/
+  location: Bielefeld
+  country: Germany
