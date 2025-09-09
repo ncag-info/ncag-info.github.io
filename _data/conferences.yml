@@ -2931,3 +2931,24 @@
   title: "Stacks and moduli"
   location: Madras
   country: India
+
+- start: 2026-01-12
+  end: 2026-01-15
+  url: https://www.wim.uni-mannheim.de/hertling/research/workshop-on-integral-stokes-structures-and-applications/
+  title: "Workshop on integral Stokes structures and applications"
+  location: Mannheim
+  country: Germany
+
+- start: 2025-09-08
+  end: 2025-09-12
+  title: "Moduli, Hilbert schemes and singularities"
+  url: https://math.ubbcluj.ro/~mhss2025/
+  location: Cluj
+  country: Romania
+
+- start: 2026-03-23
+  end: 2026-03-25
+  title: "Stability conditions and related topics"
+  url: https://sites.google.com/view/workshop-in-liverpool/
+  location: Liverpool
+  country: United Kingdom
