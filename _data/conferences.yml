@@ -2973,3 +2973,10 @@
   url: https://events.dm.unipi.it/event/328/
   location: Pisa
   country: Italy
+
+- start: 2026-06-22
+  end: 2026-06-26
+  url: https://www.mathconf.org/giq2026
+  title: Geometry of instantons and quivers
+  location: Lille
+  country: France
