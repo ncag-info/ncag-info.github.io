@@ -1,0 +1,206 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Raleway:400,600,800,900");
+
+body {
+  background-color: rgb(214,234,234);
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-size: 15px;
+}
+
+div#wrapper {
+  padding: 5em 2em 2em 2em;
+  margin: 0 auto;
+  opacity: 1;
+
+  display: -moz-flex;
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+}
+
+h1 {
+  font-family: "Raleway", Helvetica, sans-serif;
+  letter-spacing: .4em;
+}
+
+/* header */
+
+nav#top {
+  position: fixed;
+  width: 100%;
+  border-bottom: 1px solid black;
+  text-transform: uppercase;
+  background-color: white;
+  z-index: 2;
+}
+
+nav#top h1,
+nav#top ul {
+  font-size: .8em;
+}
+
+nav#top h1 {
+  margin: 0;
+  font-weight: 800;
+  border-right: 1px solid black;
+  font-size: .8em;
+  display: inline-block;
+}
+
+nav#top h1 a {
+  display: block;
+  padding: 2em;
+  color: black;
+}
+
+nav#top h1 a:hover {
+  text-decoration: none;
+}
+
+nav#top ul {
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+}
+
+nav#top ul li {
+  display: inline;
+  list-style-type: none;
+  letter-spacing: 2.8px;
+}
+
+nav#top ul li a {
+  border-right: 1px solid black;
+  padding: .2em 2em;
+  display: inline-block;
+}
+
+/* sidebar */
+
+section#sidebar {
+  margin-right: 3em;
+  min-width: 17em;
+  width: 17em;
+}
+
+section#sidebar h1 {
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 2em;
+}
+
+section#sidebar h1 a {
+  color: black;
+}
+
+section#sidebar h1 a:hover {
+  text-decoration: none;
+}
+
+section#sidebar h1 span#ag {
+  color: rgb(214,0,0);
+}
+
+section#sidebar h1 span#info {
+  font-size: .75em;
+  font-style: italic;
+  text-transform: none;
+  letter-spacing: .3em;
+  font-weight: normal;
+}
+
+section#sidebar div#sidebar-content {
+  border-top: 1px solid rgba(160,160,160,0.3);
+}
+
+section#sidebar div#sidebar-content ul {
+  padding-left: 20px;
+}
+
+/* main */
+
+div#main {
+  -moz-flex-grow: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-grow: 1;
+  flex-grow: 1;
+  -ms-flex: 1;
+  max-width: 90em;
+}
+
+div#main section,
+div#main article {
+  background-color: white;
+  border: 1px solid black;
+  margin-bottom: 1em;
+}
+
+.content {
+  padding: 1em;
+}
+
+.content h2 {
+  margin-top: 0;
+}
+
+ul.pagination li a,
+ul.pagination li.disabled a,
+ul.pagination li a:hover,
+ul.pagination li.disabled a:hover {
+  border-color: black;
+}
+
+blockquote {
+  font-size: 1em;
+}
+
+p.feed-subscribe {
+  background-image: url("atom.svg");
+  background-size: 15px 15px;
+  background-repeat: no-repeat;
+  padding-left: 20px;
+  background-position: left center;
+}
+
+/* responsive stuff */
+
+@media screen and (max-width: 1024px) {
+  div#wrapper {
+    display: block;
+    padding: 5em 1em 1em 1em;
+  }
+
+  section#sidebar {
+    width: 100%;
+    text-align: center;
+  }
+
+  section#sidebar h1 {
+    margin-top: 0;
+  }
+
+  section#sidebar div#sidebar-content {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  div#wrapper {
+    padding: 1em .5em .5em .5em;
+  }
+
+  nav#top {
+    position: relative;
+    text-align: center;
+  }
+
+  nav#top h1 {
+    display: none;
+  }
+
+  nav#top ul li a {
+    padding: 1em .5em 1.2em .5em;
+    border: none;
+  }
+}
+
+

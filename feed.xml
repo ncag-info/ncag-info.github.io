@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ncag.info</title>
+  <subtitle>a website for things related to noncommutative algebraic geometry</subtitle>
+  <link href="https://ncag.info/"/>
+  <link href="https://ncag.info/feed.xml" rel="self" type="application/atom&#43;xml"/>
+  <id>https://ncag.info/</id>
+  <updated>2026-05-18T05:31:38Z</updated>
+  
+    <entry>
+      <title>Two online seminars</title>
+      <link href="https://ncag.info/2026/05/17/two-online-seminars.html/"/>
+      <id>https://ncag.info/2026/05/17/two-online-seminars.html/</id>
+      <updated>2026-05-17T00:00:00Z</updated>
+      <published>2026-05-17T00:00:00Z</published>
+      <content type="html">
+&lt;p&gt;This post serves a two-fold purpose.
+First of all, advertising the following two online seminars
+that are relevant to the audience of this website:
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;https://danceseminar.github.io&#34;&gt;D.A.N.C.E. seminar&lt;/a&gt;: Derived And NonCommutative Enthusiasts
+  &lt;li&gt;&lt;a href=&#34;https://dogs-seminar.github.io&#34;&gt;DOGS seminar&lt;/a&gt;: Derived Obsessed Graduate Students
+&lt;/ul&gt;
+&lt;p&gt;Both are aimed at junior people, the latter maybe even more so than the former.
+If you are young, and work in an area of mathematics that makes you read this website,
+go check them out!
+&lt;p&gt;The second purpose is to explain that this website is still being updated,
+although the updates have been restricted to &lt;a href=&#34;https://ncag.info/conferences.html&#34;&gt;the conferences page&lt;/a&gt;.
+If you have events to announce, just get in touch!
+</content>
+    </entry>
+  
+    <entry>
+      <title>Keeping the conference list up-to-date during the Covid-19 pandemic</title>
+      <link href="https://ncag.info/2020/07/19/covid-updates.html/"/>
+      <id>https://ncag.info/2020/07/19/covid-updates.html/</id>
+      <updated>2020-07-19T00:00:00Z</updated>
+      <published>2020-07-19T00:00:00Z</published>
+      <content type="html">
+&lt;p&gt;I have just gone through the listing of conferences, removing cancelled conferences, and updating the postponed ones (at least those which have new dates).
+&lt;p&gt;Let me know if I have missed an event or if you notice a mistake. Online-only events are also very welcome of course!
+</content>
+    </entry>
+  
+    <entry>
+      <title>Sign of life, and country flags</title>
+      <link href="https://ncag.info/2019/03/28/flags.html/"/>
+      <id>https://ncag.info/2019/03/28/flags.html/</id>
+      <updated>2019-03-28T00:00:00Z</updated>
+      <published>2019-03-28T00:00:00Z</published>
+      <content type="html">
+&lt;p&gt;I&#39;ve been regularly updating the conferences list, in case you were wondering whether this website sees any activity. Aside from that there is nothing new.
+&lt;p&gt;&lt;em&gt;Except&lt;/em&gt; that I have now decorated all locations with a little flag. Because &lt;a href=&#34;https://en.wikipedia.org/wiki/Vexillology&#34;&gt;vexillology&lt;/a&gt; is fun!
+</content>
+    </entry>
+  
+    <entry>
+      <title>Keeping up-to-date with the list of conferences</title>
+      <link href="https://ncag.info/2016/10/12/updates-of-conferences-list.html/"/>
+      <id>https://ncag.info/2016/10/12/updates-of-conferences-list.html/</id>
+      <updated>2016-10-12T00:00:00Z</updated>
+      <published>2016-10-12T00:00:00Z</published>
+      <content type="html">
+&lt;p&gt;If you are interested in keeping up-to-date with the conferences list and you wish to get a notification each time a conference is added, it turns out that GitHub provides an &lt;a href=&#34;https://github.com/ncag-info/ncag-info.github.io/commits/master/_data/conferences.yml.atom&#34;&gt;Atom feed&lt;/a&gt; for the file where all conferences are collected. It suffices to add this link to your feed reader (if you still use such a thing).
+
+&lt;p&gt;&lt;small&gt;It turns out that they do not list this file as an Atom feed for the &lt;code&gt;conferences.yml&lt;/code&gt; file on the &lt;a href=&#34;https://github.com/ncag-info/ncag-info.github.io/commits/master/_data/conferences.yml&#34;&gt;commits page of this file&lt;/a&gt;. So maybe this functionality will break at some point.&lt;/small&gt;
+
+&lt;p&gt;The less tech-savvy people can also click on the &lt;em&gt;Last updated date&lt;/em&gt; on the &lt;a href=&#34;/conferences.html&#34;&gt;conference list&lt;/a&gt;, to go to the commits page of the relevant file, and figure out themselves which conferences are new. Please note that this date is not entirely correct, in the sense that it is not based on changes to the relevant file, but to all files.
+</content>
+    </entry>
+  
+    <entry>
+      <title>noncommutativegeometry.nl</title>
+      <link href="https://ncag.info/2016/08/29/noncommutativegeometry.nl.html/"/>
+      <id>https://ncag.info/2016/08/29/noncommutativegeometry.nl.html/</id>
+      <updated>2016-08-29T00:00:00Z</updated>
+      <published>2016-08-29T00:00:00Z</published>
+      <content type="html">
+&lt;p&gt;It turns out that there is a website similar to this one, tailored towards less algebraic (and hence more analytic) flavours of noncommutative geometry. It can be found at &lt;a href=&#34;http://noncommutativegeometry.nl&#34;&gt;&lt;code&gt;noncommutativegeometry.nl&lt;/code&gt;&lt;/a&gt;, and it has been around already for a few years now. It is maintained by &lt;a href=&#34;http://www.waltervansuijlekom.nl&#34;&gt;Walter van Suijlekom&lt;/a&gt;.
+&lt;p&gt;They feature a &lt;a href=&#34;http://noncommutativegeometry.nl/category/blog&#34;&gt;blog&lt;/a&gt; containing conference announcements, and a list of &lt;a href=&#34;http://www.noncommutativegeometry.nl/documents/&#34;&gt;interesting background articles&lt;/a&gt;. I have been thinking about compiling a similar list for noncommutative algebraic geometry, but that hasn&#39;t happened yet.
+</content>
+    </entry>
+  
+    <entry>
+      <title>Moving servers</title>
+      <link href="https://ncag.info/2016/08/15/moving-servers.html/"/>
+      <id>https://ncag.info/2016/08/15/moving-servers.html/</id>
+      <updated>2016-08-15T00:00:00Z</updated>
+      <published>2016-08-15T00:00:00Z</published>
+      <content type="html">
+&lt;p&gt;I just moved everything over to GitHub Pages, and reconfigured the DNS so that instead of a redirect to a subdirectory on the department&#39;s server the website is fully functional on the actual domain. If this doesn&#39;t mean anything to you but you see &lt;code&gt;ncag.info&lt;/code&gt; in your address bar, then everything is fine.
+</content>
+    </entry>
+  
+    <entry>
+      <title>Cutting the ribbon for ncag.info</title>
+      <link href="https://ncag.info/2016/07/31/welcome-to-ncag.info.html/"/>
+      <id>https://ncag.info/2016/07/31/welcome-to-ncag.info.html/</id>
+      <updated>2016-07-31T00:00:00Z</updated>
+      <published>2016-07-31T00:00:00Z</published>
+      <content type="html">
+&lt;p&gt;We are happy to announce this website, dedicated to news that is of interest to the noncommutative algebraic geometry community. Hopefully it will be of use to you. At the moment it is mostly &lt;a href=&#34;/conferences.html&#34;&gt;a list of conferences&lt;/a&gt;.
+</content>
+    </entry>
+  
+</feed>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Online on ncag.info</title>
+    <link>https://ncag.info/tags/online/</link>
+    <description>Recent content in Online on ncag.info</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ncag.info/tags/online/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>noncommutative&lt;wbr&gt;geometry.nl</title>
+      <link>https://ncag.info/2016/08/29/noncommutativegeometry.nl.html/</link>
+      <pubDate>Mon, 29 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://ncag.info/2016/08/29/noncommutativegeometry.nl.html/</guid>
+      <description>&lt;p&gt;It turns out that there is a website similar to this one, tailored towards less algebraic (and hence more analytic) flavours of noncommutative geometry. It can be found at &lt;a href=&#34;http://noncommutativegeometry.nl&#34;&gt;&lt;code&gt;noncommutativegeometry.nl&lt;/code&gt;&lt;/a&gt;, and it has been around already for a few years now. It is maintained by &lt;a href=&#34;http://www.waltervansuijlekom.nl&#34;&gt;Walter van Suijlekom&lt;/a&gt;.&#xA;&lt;p&gt;They feature a &lt;a href=&#34;http://noncommutativegeometry.nl/category/blog&#34;&gt;blog&lt;/a&gt; containing conference announcements, and a list of &lt;a href=&#34;http://www.noncommutativegeometry.nl/documents/&#34;&gt;interesting background articles&lt;/a&gt;. I have been thinking about compiling a similar list for noncommutative algebraic geometry, but that hasn&#39;t happened yet.</description>
+    </item>
+  </channel>
+</rss>

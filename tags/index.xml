@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ncag.info</title>
+    <link>https://ncag.info/tags/</link>
+    <description>Recent content in Tags on ncag.info</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ncag.info/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta</title>
+      <link>https://ncag.info/tags/meta/</link>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://ncag.info/tags/meta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Online</title>
+      <link>https://ncag.info/tags/online/</link>
+      <pubDate>Mon, 29 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://ncag.info/tags/online/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
