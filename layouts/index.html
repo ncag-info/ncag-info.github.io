@@ -1,0 +1,23 @@
+{{ define "main" }}
+{{ $paginator := .Paginate ((where site.RegularPages "Section" "posts").ByDate.Reverse) }}
+
+{{ range $paginator.Pages }}
+  {{ partial "posting.html" . }}
+{{ end }}
+
+<ul class="pagination">
+  {{ if $paginator.HasPrev }}
+    <li class="previous"><a href="{{ $paginator.Prev.URL }}">previous page</a>
+  {{ else }}
+    <li class="disabled previous"><a href="#">previous page</a>
+  {{ end }}
+
+  {{ if $paginator.HasNext }}
+    <li class="next"><a href="{{ $paginator.Next.URL }}">next page</a>
+  {{ else }}
+    <li class="disabled next"><a href="#">next page</a>
+  {{ end }}
+</ul>
+
+<p class="feed-subscribe">subscribe <a href="{{ with site.Home.OutputFormats.Get "ATOM" }}{{ .RelPermalink }}{{ else }}{{ "/feed.xml" | relURL }}{{ end }}">via Atom</a></p>
+{{ end }}

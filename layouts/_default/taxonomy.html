@@ -1,0 +1,10 @@
+{{ define "main" }}
+<section class="content">
+  {{ if .Title }}<h2>{{ .Title | safeHTML }}</h2>{{ end }}
+  <ul>
+    {{ range .Data.Terms.Alphabetical }}
+      <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}

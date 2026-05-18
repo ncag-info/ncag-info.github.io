@@ -1,0 +1,33 @@
+baseURL: https://ncag.info/
+locale: en-us
+title: ncag.info
+
+params:
+  description: a website for things related to noncommutative algebraic geometry
+  email: p.belmans@uu.nl
+  twitterUsername: ncaginfo
+
+taxonomies:
+  tag: tags
+
+pagination:
+  pagerSize: 5
+  path: archive
+
+permalinks:
+  posts: /:year/:month/:day/:slug.html
+
+outputs:
+  home:
+    - HTML
+    - ATOM
+
+mediaTypes:
+  application/atom+xml:
+    suffixes:
+      - xml
+
+outputFormats:
+  ATOM:
+    mediaType: application/atom+xml
+    baseName: feed

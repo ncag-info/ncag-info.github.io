@@ -1,0 +1,51 @@
+{{ $pageTitle := site.Title }}
+{{ if and .Title (not .IsHome) }}
+  {{ $pageTitle = printf "%s: %s" site.Title (.Title | plainify) }}
+{{ end }}
+
+{{ $description := site.Params.description }}
+{{ if .Description }}
+  {{ $description = .Description }}
+{{ else if .Summary }}
+  {{ $description = .Summary | plainify | strings.TrimSpace | truncate 160 }}
+{{ end }}
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{ $pageTitle }}</title>
+  <meta name="description" content="{{ $description }}">
+
+  <link rel="stylesheet" href="{{ "bootstrap/css/bootstrap.css" | relURL }}">
+
+  <link rel="stylesheet" href="{{ "css/layout.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/post.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/conferences.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/flag-icon.css" | relURL }}">
+
+  <link rel="icon" type="image/png" href="{{ "favicon-256x256.png" | relURL }}" sizes="256x256">
+
+  <link rel="canonical" href="{{ .Permalink }}">
+  {{ with site.Home.OutputFormats.Get "ATOM" }}
+    <link rel="alternate" type="{{ .MediaType.Type }}" title="{{ site.Title }}" href="{{ .Permalink }}">
+  {{ end }}
+
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']]
+      },
+      TeX: {
+        extensions: ["AMSmath.js", "AMSsymbols.js"]
+      }
+    });
+  </script>
+
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
+  <script type="text/javascript" src="{{ "js/conferences.js" | relURL }}"></script>
+
+  <script defer data-domain="ncag.info" src="https://plausible.io/js/script.js"></script>
+</head>

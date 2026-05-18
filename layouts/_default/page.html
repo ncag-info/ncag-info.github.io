@@ -1,0 +1,6 @@
+{{ define "main" }}
+<section class="content">
+  {{ if .Title }}<h2>{{ .Title | safeHTML }}</h2>{{ end }}
+  {{ .Content }}
+</section>
+{{ end }}

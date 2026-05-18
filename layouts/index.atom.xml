@@ -1,0 +1,20 @@
+{{- printf "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" | safeHTML -}}
+{{- $posts := (where site.RegularPages "Section" "posts").ByDate.Reverse -}}
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ site.Title | html }}</title>
+  <subtitle>{{ site.Params.description | html }}</subtitle>
+  <link href="{{ site.Home.Permalink }}"/>
+  {{ with site.Home.OutputFormats.Get "ATOM" }}<link href="{{ .Permalink }}" rel="self" type="{{ .MediaType.Type }}"/>{{ end }}
+  <id>{{ site.Home.Permalink }}</id>
+  <updated>{{ now.Format "2006-01-02T15:04:05Z07:00" }}</updated>
+  {{ range first 10 $posts }}
+    <entry>
+      <title>{{ .Title | plainify | html }}</title>
+      <link href="{{ .Permalink }}"/>
+      <id>{{ .Permalink }}</id>
+      <updated>{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}</updated>
+      <published>{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}</published>
+      <content type="html">{{ .Content | html }}</content>
+    </entry>
+  {{ end }}
+</feed>

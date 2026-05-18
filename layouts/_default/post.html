@@ -1,0 +1,37 @@
+{{ define "main" }}
+{{ partial "posting.html" . }}
+
+{{ $nav := newScratch }}
+{{ $nav.Set "idx" -1 }}
+{{ $pages := .CurrentSection.RegularPages.ByDate }}
+{{ $count := len $pages }}
+{{ range $i, $page := $pages }}
+  {{ if eq $page.RelPermalink $.RelPermalink }}
+    {{ $nav.Set "idx" $i }}
+  {{ end }}
+{{ end }}
+
+{{ $idx := $nav.Get "idx" }}
+{{ if ge $idx 0 }}
+  {{ if gt $idx 0 }}
+    {{ $nav.Set "previous" (index $pages (sub $idx 1)) }}
+  {{ end }}
+  {{ if lt (add $idx 1) $count }}
+    {{ $nav.Set "next" (index $pages (add $idx 1)) }}
+  {{ end }}
+{{ end }}
+
+<ul class="pagination">
+  {{ with $nav.Get "previous" }}
+    <li class="previous"><a href="{{ .RelPermalink }}">previous post ({{ .Title | safeHTML }})</a>
+  {{ else }}
+    <li class="disabled previous"><a href="#">previous post</a>
+  {{ end }}
+
+  {{ with $nav.Get "next" }}
+    <li class="next"><a href="{{ .RelPermalink }}">next post ({{ .Title | safeHTML }})</a>
+  {{ else }}
+    <li class="disabled next"><a href="#">next post</a>
+  {{ end }}
+</ul>
+{{ end }}

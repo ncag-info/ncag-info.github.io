@@ -1,0 +1,58 @@
+{{ define "main" }}
+{{ $scratch := newScratch }}
+{{ $scratch.Set "year" "" }}
+{{ $scratch.Set "month" "" }}
+{{ $scratch.Set "countries" dict }}
+{{ with resources.Get "iso-3166-1.csv" }}
+  {{ range after 1 (. | transform.Unmarshal (dict "delimiter" ",")) }}
+    {{ $scratch.Set "countries" (merge ($scratch.Get "countries") (dict (upper (index . 0)) (lower (index . 1)))) }}
+  {{ end }}
+{{ end }}
+
+{{ $countries := $scratch.Get "countries" }}
+{{ $conferences := sort hugo.Data.conferences "start" "desc" }}
+
+<section class="content">
+  {{ if .Title }}<h2>{{ .Title | safeHTML }}</h2>{{ end }}
+
+  <p>If you have contributions to make, please get in touch on <a href="mailto:{{ site.Params.email }}">{{ site.Params.email }}</a>.</p>
+
+  <p>This website has last been updated on <a href="https://github.com/ncag-info/ncag-info.github.io/commits/master">{{ now.Format "January 02, 2006" }}</a>.</p>
+
+  {{ range $conference := $conferences }}
+      {{ $start := time.AsTime $conference.start }}
+      {{ $end := time.AsTime $conference.end }}
+      {{ $year := $start.Format "2006" }}
+      {{ $month := $start.Format "Jan" }}
+
+      {{ if ne ($scratch.Get "year") $year }}
+        {{ if ne ($scratch.Get "year") "" }}</dl>{{ end }}
+        <h3>{{ $year }}</h3>
+        <dl class="dl-horizontal conferences">
+        {{ $scratch.Set "year" $year }}
+        {{ $scratch.Set "month" "" }}
+      {{ end }}
+
+      <dt{{ if ne ($scratch.Get "month") $month }} class="new-month"{{ end }} data-end="{{ $conference.end }}">{{ $start.Format "Jan 02, 2006" }}&ndash;{{ $end.Format "Jan 02, 2006" }}</dt>
+      <dd>
+        {{ with $conference.url }}
+          <a href="{{ . }}">{{ $conference.title }}</a>
+        {{ else }}
+          {{ $conference.title }}
+        {{ end }}
+      </dd>
+      <dd>
+        {{ with $conference.location }}
+          {{ $countryCode := index $countries (upper $conference.country) }}
+          {{ with $countryCode }}<span class="flag-icon flag-icon-{{ . }}"></span>{{ end }}
+          {{ $conference.location }}, {{ $conference.country }}
+        {{ else }}
+          <strong>online</strong>
+        {{ end }}
+      </dd>
+
+      {{ $scratch.Set "month" $month }}
+  {{ end }}
+  {{ if gt (len $conferences) 0 }}</dl>{{ end }}
+</section>
+{{ end }}
