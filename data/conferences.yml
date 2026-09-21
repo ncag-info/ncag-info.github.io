@@ -3141,3 +3141,10 @@
   location: Brussels
   country: Belgium
   url: https://atlas-26.ncag.info/
+
+- start: 2026-12-07
+  end: 2026-12-11
+  url: https://leonardofcavenaghi.github.io/hodge-birational-2026/
+  location: Sofia
+  country: Bulgaria
+  title: Hodge theory and birational geometry
